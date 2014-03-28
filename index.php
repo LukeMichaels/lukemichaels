@@ -10,6 +10,7 @@
 		<!-- <div class="section group"> -->
 	
 			<div class="col span_1_of_2">
+			
 				<div id="piece-wrapper">
 					<img src="images/retina/rogue-landing-page.jpg" title="Rogue Home Page" alt="Rogue Home Page"><br><br>
 					<img src="images/retina/rogue-beer-page.jpg" title="Rogue Beer Page" alt="Rogue Beer Page"><br><br>
