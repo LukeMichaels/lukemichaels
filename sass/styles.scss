@@ -215,9 +215,6 @@ body {
 	float: left;
 	/* width: 25%; */
 }
-.nav li a{
-	color: $white;
-}
 .drop-nav li{
 	float: left;
 	width: 100%;
@@ -227,12 +224,13 @@ body {
     padding: 0%;
     display: block;
     font-size: 1em;
-}
-.nav li a:hover{
-	color: #ca4768;
+    color: $white;
 }
 .nav li a:visited{
-	color: #ca4768;
+	color: $white;
+}
+.nav li a:hover{
+	color: $pink;
 }
 .nav li a:hover, .nav li a:focus{
 	background-color: $teal;
@@ -313,9 +311,41 @@ body {
 #share-icons #flickr-social a:hover { background: url('../images/ui/2014-Social-Icons.jpg') -300px -75px no-repeat; }
 #share-icons #linkedin-social a:hover { background: url('../images/ui/2014-Social-Icons.jpg') -375px -75px no-repeat; }
 #share-icons #behance-social a:hover { background: url('../images/ui/2014-Social-Icons.jpg') -450px -75px no-repeat; }
+table {
+	width: 100%;
+}
+tr {
+	float: left;
+	padding: 1% 0;
+	width: 100%;
+}
+.about-icon {
+	float: left;
+	width: 25%;
+	text-align: center;
+}
+.about-link {
+	float: right;
+	padding-left: 2%;
+	width: 73%;
+	text-align: left;
+}
+.service-icon {
+	float: left;
+	width: 2%;
+	text-align: center;
+	color: $purple;
+}
+.service-link {
+	float: right;
+	padding-left: 2%;
+	width: 98%;
+	text-align: left;
+}
+
 
 /* :::::::::: General Typography :::::::::: */
-body { font-family: $font-regular; font-size: 1em; line-height: 1.1em;}
+body { font-family: $font-regular; font-size: 1em; line-height: 1.5em; }
 h1 {font-family: $font-bold; color: $white; padding:0px;}
 h2 {font-family: $font-regular; color: $purple; padding:0px;}
 h3 {font-family: $font-regular; color: $pink; padding:0px;}
@@ -556,6 +586,8 @@ a:hover, a:focus, a:active { color: $purple; text-decoration: none; cursor: poin
 	font-size: 1em;
 	color: $teal;
 }
+
+
 /* :::::::::: Services Page :::::::::: */
 .ServicesHeading {
 	color: $teal;

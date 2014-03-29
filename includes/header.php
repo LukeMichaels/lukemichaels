@@ -22,6 +22,7 @@
     <link href="css/reset.css" rel="stylesheet">
     <link href="css/styles.css" rel="stylesheet" media="screen">
     <link href="css/fonts.css" rel="stylesheet">
+    <link href="css/font-awesome.min.css" rel="stylesheet">
     <link href="css/media-queries.css" rel="stylesheet">
     <link href="css/colorbox.css" rel="stylesheet">
     

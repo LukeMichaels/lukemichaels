@@ -12,7 +12,7 @@
     	In 2005 I graduated with a computer science degree in<br />
     	digital media. Since that time I've picked up a broad range<br />
     	of design and development experience in several mediums<br /> 
-    	including print, web, television and screen-printing.<br /><br />
+    	including web, print, television and screen-printing.<br /><br />
     	
 		Over-all I have 10 years of professional experience and<br /> 
 		over 16 years of personal experience in graphic design,<br />
@@ -68,17 +68,11 @@
     	<span class="AboutHeading">Networks and Operating Systems</span> - <span class="AboutDetail">Networking and computer maintenance.</span><br />
     	<span class="AboutHeading">Digital Media Production</span> - <span class="AboutDetail">Video Editing and DVD authoring.</span><br /><br />
     	
-		The web is always evolving. The way I build sites now hardly even resembles<br /> 
-		the way that I built them back in 1995 (or 2005 for that matter). A good<br /> 
-		web designer/developer never stops learning new ways to improve.<br /><br /><br />
-    	
-    <!--
-<span class="AboutTitle">Professional Experience</span><br />
-    	<span class="AboutHeading">Bob's Red Mill</span> - <span class="AboutDetail">Web Design/Development, Graphic Design</span><br />
-    	<span class="AboutHeading">Off The Wall Media</span> - <span class="AboutDetail">Web Design/Development, Graphic Design</span><br />
-    	<span class="AboutHeading">Recycled Rockstar</span> - <span class="AboutDetail">Web Design/Development, Graphic Design</span><br />
-    	<br /><br />
--->
+    	<span style="color: #00A2A6;">
+			The web is always evolving. The way I build sites now hardly even resembles<br /> 
+			the way that I built them back in 1995 (or 2005 for that matter). A good<br /> 
+			web designer/developer never stops learning new ways to improve.<br /><br /><br />
+    	</span>
     	
     <span class="AboutTitle">Favorites</span><br />
     	<span class="AboutHeading">Film</span> - <span class="AboutDetail">The Big Lebowski</span><br />
@@ -99,14 +93,80 @@
 <div class="two-columns-left">
 	<img src="http://www.lukemichaels.com/images/retina/me-2.jpg" border="0"/><br />
 	<span style ="float: left; padding: 10px 0 10px 0;">
-		<a href="http://www.lukemichaels.com/Luke_Michaels_Resume_2013.pdf" alt="download my resume">Resume</a><br />
-		<!-- <a href="http://www.lukemichaels.com/Luke_Michaels_Portfolio_2013.pdf" alt="download my portfolio">Download 'Mini' Portfolio</a><br /> -->
-		<a href="tel:503.890.0222">Phone</a><br />
-			<a href="mailto:lmichaels@gmail.com" title="Email" alt="Email">Email</a><br />
-			<a href="http://www.linkedin.com/in/lmichaels" title="Linkedin" alt="Linkedin" target="_blank">Linkedin</a><br />
-			<a href="http://www.twitter.com/LukeMichaels" title="Twitter" alt="Twitter" target="_blank">Twitter</a><br />
-			<!--<a href="http://www.facebook.com/Luke.Michaels" title="Facebook" alt="Facebook" target="_blank">Facebook</a><br />-->
-			<a href="https://plus.google.com/100314344713197751474/posts" title="Google Plus" alt="Google Plus" target="_blank">Google+</a><br />
+		<table border="0" cellpadding="0" cellspacing="0">
+			<tr>
+				<td class="about-icon">
+					<i class="fa fa-paperclip"></i>
+				</td>
+				<td class="about-link">
+					<a href="http://www.lukemichaels.com/Luke_Michaels_Resume_2013.pdf" alt="download my resume"> Resume</a>
+				</td>
+			</tr>
+			<tr>
+				<td class="about-icon">
+					<i class="fa fa-envelope"></i>
+				</td>
+				<td class="about-link">
+					<a href="mailto:lmichaels@gmail.com" title="Email" alt="Email"> Email</a>
+				</td>
+			</tr>
+			<tr>
+				<td class="about-icon">
+					<i class="fa fa-phone"></i>
+				</td>
+				<td class="about-link">
+					<a href="tel:503.890.0222"> Phone</a>
+				</td>
+			</tr>
+			<tr>
+				<td class="about-icon">
+					<i class="fa fa-github"></i>
+				</td>
+				<td class="about-link">
+					<a href="https://github.com/LukeMichaels" title="GitHub" alt="GitHub" target="_blank"> GitHub</a>
+				</td>
+			</tr>
+			<tr>
+				<td class="about-icon">
+					<i class="fa fa-linkedin"></i>
+				</td>
+				<td class="about-link">
+					<a href="http://www.linkedin.com/in/lmichaels" title="Linkedin" alt="Linkedin" target="_blank"> Linkedin</a>
+				</td>
+			</tr>
+			<tr>
+				<td class="about-icon">
+					<i class="fa fa-twitter"></i>
+				</td>
+				<td class="about-link"> 
+					<a href="http://www.twitter.com/LukeMichaels" title="Twitter" alt="Twitter" target="_blank"> Twitter</a>
+				</td>
+			</tr>
+			<tr>
+				<td class="about-icon">
+					<i class="fa fa-instagram"></i>
+				</td>
+				<td class="about-link">
+					<a href="http://instagram.com/LukeMichaels" title="Instagram" alt="Instagram" target="_blank"> Instagram</a>
+				</td>
+			</tr>
+			<tr>
+				<td class="about-icon">
+					<i class="fa fa-facebook"></i>
+				</td>
+				<td class="about-link">
+					<a href="http://www.facebook.com/Luke.Michaels" title="Facebook" alt="Facebook" target="_blank">Facebook</a>
+				</td> 
+			</tr>
+			<tr>
+				<td class="about-icon">
+					<i class="fa fa-google-plus"></i>
+				</td>
+				<td class="about-link">
+					<a href="https://plus.google.com/100314344713197751474/posts" title="Google Plus" alt="Google Plus" target="_blank"> Google+</a>
+				</td>
+			</tr>
+		</table>
 	</span>
 	<br /><br />
 	<span class="AboutContactInfo">
