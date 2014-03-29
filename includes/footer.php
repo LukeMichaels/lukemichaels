@@ -11,6 +11,7 @@
     <script src="js/jquery.rwdImageMaps.min.js"></script>
     <script src="js/jquery.imagesloaded.js"></script>
      <script src="js/jquery.colorbox-min.js"></script>
+     <script src="js/fresco.js"></script>
     
     <!-- :::::::::: Masonry :::::::::: -->
     <!-- <script src="js/masonry.js"></script> -->

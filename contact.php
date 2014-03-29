@@ -47,11 +47,13 @@
 	    	name:<br><input name="name" type="text" class="form_1"><br><br>
 			e-mail:<br><input name="email" type="text" class="form_1"><br><br>
 			message:<br><textarea name="message" cols="42" rows="20" class="form_2"></textarea><br><br>
-			<span class="captcha">
+			<!--
+<span class="captcha">
 				<img src="/CaptchaSecurityImages.php" alt="" /><br>
 				Security Code:
 				<input id="security_code" name="security_code" type="text" />
 			</span><br><br>
+-->
 			<span class="form-buttons">
 				<button class="contact-button"  alt="send" value="Send" style="float:right; padding-left:30px;" onClick="submit();">Send</button>
 				<button class="contact-button" alt="reset" style="float: right;" onClick="reset(); return false;">Reset</button>

@@ -1,59 +1,48 @@
 <?php
 // captcha validation
 session_start();
-if(($_SESSION['security_code'] == $_POST['security_code']) && (!empty($_SESSION['security_code'])) ) {
-	if(isset($_POST['email'])) {
+
+if(isset($_POST['email'])) {
 	     
 	
-	    $email_to = "lmichaels@gmail.com";
-	    $email_subject = "Email from lukemichaels.com";
-	     
-	     
-	    function died($error) {
-	        // error code
-	    ?>
-	        <?php include 'includes/header.php'; ?>
-			<center>
-				<br><br><br>
-		<?
-	        echo "I'm very sorry, but there were error(s) found with the form you submitted.<br> ";
-	        echo "These errors appear below.<br /><br />";
-	        echo $error."<br /><br />";
-	        echo "Please go <a href='contact.php' alt='back to the contact page'>back</a> and fix these errors.<br /><br />";
-	    ?>
-	    		
-				<br><br><br>
-	    	</center>
-	    	<?php include 'includes/footer.php'; ?>    
-	    
-	    <?
-	      die();
-	    }
-	 
-	 	// captcha validation
-	 	/*
-session_start();
-		if(($_SESSION['security_code'] == $_POST['security_code']) && (!empty($_SESSION['security_code'])) ) {
-			// Insert you code for processing the form here, e.g emailing the submission, entering it into a database. 
-			unset($_SESSION['security_code']);
-		} else {
-			$error_message .= 'The Security Code you entered does not appear to be valid.<br />';
-		}
-*/
-	 
-	    // validation expected data exists
-	    if(!isset($_POST['name']) ||
-	        !isset($_POST['email']) ||
-	        !isset($_POST['message'])) {
-	        died('We are sorry, but there appears to be a problem with the form you submitted.');       
-	    }
-	     
-	    $name = $_POST['name']; // required
-	    $email_from = $_POST['email']; // required
-	    $message = $_POST['message']; // required
-	     
-	    $error_message = "";
-	    $email_exp = '/^[A-Za-z0-9._%-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,4}$/';
+    $email_to = "lmichaels@gmail.com";
+    $email_subject = "Email from lukemichaels.com";
+     
+     
+    function died($error) {
+        // error code
+    ?>
+        <?php include 'includes/header.php'; ?>
+		<center>
+			<br><br><br>
+	<?
+        echo "I'm very sorry, but there were error(s) found with the form you submitted.<br> ";
+        echo "These errors appear below.<br /><br />";
+        echo $error."<br /><br />";
+        echo "Please go <a href='contact.php' alt='back to the contact page'>back</a> and fix these errors.<br /><br />";
+    ?>
+    		
+			<br><br><br>
+    	</center>
+    	<?php include 'includes/footer.php'; ?>    
+    
+    <?
+      die();
+    }
+  
+    // validation expected data exists
+    if(!isset($_POST['name']) ||
+        !isset($_POST['email']) ||
+        !isset($_POST['message'])) {
+        died('We are sorry, but there appears to be a problem with the form you submitted.');       
+    }
+     
+    $name = $_POST['name']; // required
+    $email_from = $_POST['email']; // required
+    $message = $_POST['message']; // required
+     
+    $error_message = "";
+    $email_exp = '/^[A-Za-z0-9._%-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,4}$/';
 	  if(!preg_match($email_exp,$email_from)) {
 	    $error_message .= 'The Email Address you entered does not appear to be valid.<br />';
 	  }
@@ -67,16 +56,16 @@ session_start();
 	  if(strlen($error_message) > 0) {
 	    died($error_message);
 	  }
-	    $email_message = "Form details below.\n\n";
-	     
-	    function clean_string($string) {
-	      $bad = array("content-type","bcc:","to:","cc:","href");
-	      return str_replace($bad,"",$string);
-	    }
-	     
-	    $email_message .= "Name: ".clean_string($name)."\n";
-	    $email_message .= "Email: ".clean_string($email_from)."\n";
-	    $email_message .= "message: ".clean_string($message)."\n";
+    $email_message = "Form details below.\n\n";
+     
+    function clean_string($string) {
+      $bad = array("content-type","bcc:","to:","cc:","href");
+      return str_replace($bad,"",$string);
+    }
+     
+    $email_message .= "Name: ".clean_string($name)."\n";
+    $email_message .= "Email: ".clean_string($email_from)."\n";
+    $email_message .= "message: ".clean_string($message)."\n";
 	     
 	     
 	// create email headers
@@ -96,23 +85,4 @@ session_start();
 	 	<?php include 'includes/footer.php'; ?>
 	
 	<?php
-	}
-	unset($_SESSION['security_code']);
-} else {
-?>
-	<?php include 'includes/header.php'; ?>
-			<center>
-				<br><br><br>
-		<?
-	        echo "I'm very sorry, but there were error(s) found with the form you submitted.<br> ";
-	        echo "These errors appear below.<br /><br />";
-	        echo "The Security Image is invalid.<br /><br />";
-	        echo "Please go <a href='contact.php' alt='back to the contact page'>back</a> and fix these errors.<br /><br />";
-	    ?>
-	    		
-				<br><br><br>
-	    	</center>
-	    	<?php include 'includes/footer.php'; ?>  
-<?
 }
-?>
