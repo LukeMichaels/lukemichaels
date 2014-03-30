@@ -2,8 +2,12 @@
 <?php include 'includes/header.php'; ?>
 
 <div id="full">
-	<p>Here are a few examples of websites that I've designed and developed throughout the years.<br /> 
-	I've worked on countless websites, but these stood out to me for one reason or another.</a></p>
+	<h1>Web Gallery</h1>
+	<p>
+		Here are a some examples of websites that I've designed and developed throughout the years.<br /> 
+		I've had the pleasure to work on countless websites, but I felt it unnecessary to list all of them.<br />
+		Not to mention that some of my GeoCities sites from the mid-90s are probably best left buried.
+	</p>
 </div>
 
 <!-- :::::::::: Web Gallery :::::::::: -->
