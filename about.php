@@ -1,27 +1,32 @@
 <!-- :::::::::: Header :::::::::: -->
 <?php include 'includes/header.php'; ?>
 
-
-
-
 <!-- :::::::::: About Me :::::::::: -->
 <div class="two-columns-main">
   	<h1>Hi I'm Luke</h1>	
-    	I enjoy cycling, tea, live shows, cooking, programming and design.<br /><br />
+    	<p>
+    		I enjoy cycling, tea, live shows, cooking, programming and design.
+    	</p><br />
     	
-    	In 2005 I graduated with a computer science degree in<br />
-    	digital media. Since that time I've picked up a broad range<br />
-    	of design and development experience in several mediums<br /> 
-    	including web, print, television and screen-printing.<br /><br />
+    	<p>
+	    	In 2005 I graduated with a computer science degree in<br />
+	    	digital media. Since that time I've picked up a broad range<br />
+	    	of design and development experience in several mediums<br /> 
+	    	including web, print, television and screen-printing.
+    	</p><br />
     	
-		Over-all I have 10 years of professional experience and<br /> 
-		over 16 years of personal experience in graphic design,<br />
-		web design & development, typesetting, print layout, branding<br />
-		and everything else that comes along with being a full service<br />
-		new media designer.<br /><br />
+    	<p>
+			Over-all I have 10 years of professional experience and<br /> 
+			over 16 years of personal experience in graphic design,<br />
+			web design & development, typesetting, print layout, branding<br />
+			and everything else that comes along with being a full service<br />
+			new media designer.
+    	</p><br />
 		
-		My primary focus is front-end web design. I aim to create<br /> 
-		aesthetically pleasing sites with intuitive user experiences.<br /><br /><br />
+		<p>
+			My primary focus is front-end web design. I aim to create<br /> 
+			aesthetically pleasing sites with intuitive user experiences.
+		</p><br />
     	  	
   	<span class="AboutTitle">Skills - Primary</span><br />
   		<span style="color: #00A2A6;">
@@ -32,7 +37,7 @@
 	    	<span class="AboutHeading">Content Management - </span><span class="AboutDetail">WordPress, Ghost, Joomla.</span><br /> 
 	    	<span class="AboutHeading">Print Design - </span><span class="AboutDetail">Typesetting, layout design, typography, Page DNA.</span><br />
 	    	<span class="AboutHeading">Email Newsletters - </span><span class="AboutDetail">MailChimp, Emma, Constant Contact.</span><br />
-	    	<span class="AboutHeading">Operating Systems - </span><span class="AboutDetail">Mac OS, iOS, Android, Chrome, Linux, Unix, Windows.</span><br />
+	    	<span class="AboutHeading">Operating Systems - </span><span class="AboutDetail">Mac OS, iOS, Android, Chrome, Linux, Unix, Windows.</span>
   		</span><br /><br />
   		
   	<span class="AboutTitle">Skills - Secondary</span><br />
@@ -42,18 +47,16 @@
 	    	<span class="AboutHeading">Server Administration - </span><span class="AboutDetail">RPM-based (Centos, Redhat), SSH.</span><br />
 	    	<span class="AboutHeading">Photography - </span><span class="AboutDetail">Lightroom, image retouching and manipulation.</span><br />
 	    	<span class="AboutHeading">Video Editing - </span><span class="AboutDetail">Final Cut, DVD Studio Pro.</span><br />
-	    	<span class="AboutHeading">3D Graphics - </span><span class="AboutDetail">3D Studio Max, Renderware Studio.</span><br />
-  		</span>	<br /><br />
+	    	<span class="AboutHeading">3D Graphics - </span><span class="AboutDetail">3D Studio Max, Renderware Studio.</span>
+  		</span><br /><br />
   	
   	<span class="AboutTitle">Software Proficiency</span><br />
-  		<span style="color: #00A2A6;">
+  		<p style="color: #00A2A6;">
 	    	Illustrator, Photoshop, InDesign, Coda, Kleidoscope, Dreamweaver, FontExplorer,<br />
 	    	Pages, Numbers, Keynote, Excel, Word, PowerPoint, Emma, Mail Chimp, Tower, CodeKit,<br />
 	    	Terminal, Atom.io, Viseo, MAMP, Dropbox, CodeBox, xScope, OS X, iOS, Linux(Fedora), <br />
 	    	Windows... I'm a big fan of trying out new software :-)
-  		</span> <br /><br /><br />
-  	
-  	<!-- <span class="AboutTitle">Education</span><br /> -->	
+  		</p><br />
   	
   	<span class="AboutTitle">Academic Experience</span><br />
   		<span style="color: #00A2A6;">Computer Science Degree in Digital Media, August, 2005</span><br />
@@ -68,11 +71,11 @@
     	<span class="AboutHeading">Networks and Operating Systems</span> - <span class="AboutDetail">Networking and computer maintenance.</span><br />
     	<span class="AboutHeading">Digital Media Production</span> - <span class="AboutDetail">Video Editing and DVD authoring.</span><br /><br />
     	
-    	<span style="color: #00A2A6;">
+    	<p style="color: #00A2A6;">
 			The web is always evolving. The way I build sites now hardly even resembles<br /> 
 			the way that I built them back in 1995 (or 2005 for that matter). A good<br /> 
-			web designer/developer never stops learning new ways to improve.<br /><br /><br />
-    	</span>
+			web designer/developer never stops learning new ways to improve.
+    	</p><br />
     	
     <span class="AboutTitle">Favorites</span><br />
     	<span class="AboutHeading">Film</span> - <span class="AboutDetail">The Big Lebowski</span><br />
@@ -168,12 +171,6 @@
 			</tr>
 		</table>
 	</span>
-	<br /><br />
-	<span class="AboutContactInfo">
-		<!-- <h1>Connect</h1> -->
-			
-		  	<!-- <i style="font-style: italic; font-size: 10px;">I'm currently boycotting Facebook & LinkedIn<br />due to their affiliation<br />with TransCanada</i> -->
-	</span><!--AboutContactInfo-->
 </div><!--AboutSidebar-->
 
 <!-- :::::::::: Footer :::::::::: -->

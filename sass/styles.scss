@@ -10,7 +10,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: #BFDA71;
-    background-image: url("http://www.lukemichaels.com/images/FlannelBackground.jpg");
+    background-image: url("../images/FlannelBackground.jpg");
     background-repeat: repeat;
     color: $pink;
 }  
@@ -68,7 +68,7 @@ body {
 		margin: 1% 0 1% 0%;
 	}
 }
-#piece-wrapper {
+.piece-wrapper {
 	float: left;
 	margin: 2% 0;
 	padding: 2%;
@@ -207,9 +207,6 @@ body {
 .drop-nav li .dropdown{
 	float: left; 
 	width: 25% !important;
-}
-
-.nav {
 }
 .nav li{
 	float: left;
@@ -353,13 +350,34 @@ h1 {
     color: $white;
 }
 h2 {
-	padding: 0;
+	padding: 2% 0;
     font-family: $font-bold;
     font-size: 2em;  
-    color: $white;
+    color: $pink;
+    text-align: center;
+    background-color: $white;
 }
-h3 { padding: 0px; font-family: $font-regular; color: $pink; }
-h4 { padding: 0px; font-family: $font-regular; color: $teal; }
+h3 {
+	margin-bottom: 5px !important;
+    margin-top: 0 !important;
+	color: $purple;
+    font-size: 1.4em;
+}
+h4 { 
+	margin-bottom: 5px !important;
+    margin-top: 0 !important;
+    padding: 0px;
+	font-family: $font-regular;
+    font-size: 1em;
+	color: $pink;
+}
+h5 { 
+	margin: 0 !important;
+	padding: 0px; 
+    font-family: $font-regular;
+    font-size: 1em;     
+    color: $teal; 
+}
 p { font-family: $font-regular; }
 a { font-family: $font-regular; color: $teal; text-decoration: none; cursor: pointer;  }
 a:visited { font-family: $font-regular; color: $teal; text-decoration: none; cursor: pointer; }
@@ -392,78 +410,12 @@ a:hover, a:focus, a:active { color: $purple; text-decoration: none; cursor: poin
 #half img{
 	width: 100%;
 }
-#left{
+.gallery{
 	float: left;
-	width: 17%;
-	margin: 2%;
-}
-#right{
-	float: right;
-	width: 75%;
-	margin: 2%;
-}
-#right h1{
-	margin-bottom: 5px !important;
-    margin-top: 0 !important;
-	color: $purple;
-    font-size: 1.2em;
-    
-}
-#right h2{
-	margin-bottom: 5px !important;
-    margin-top: 0 !important;
-	color: $purple;
-    font-size: 1em;
-    
-}
-#right h3{
-	margin-bottom: 5px !important;
-    margin-top: 0 !important;
-	color: $pink;
-    font-size: 1em;
-    
-}
-#right h4{
-	margin: 0 !important;
-    color: $teal;
-    font-size: 1em;
-     
-}
-#right img{
-	width: 100%;
-}
-#gallery{
 	width: 96%;
-	margin: 2%;
+	margin: 0 2%;
 }
-#gallery h1{
-	margin-bottom: 5px !important;
-    margin-top: 0 !important;
-	color: $purple;
-    font-size: 1.4em;
-    
-}
-#gallery h2{
-	margin-bottom: 5px !important;
-    margin-top: 0 !important;
-	color: $purple;
-    font-size: 1em;
-    
-}
-#gallery h3{
-	margin-bottom: 5px !important;
-    margin-top: 0 !important;
-	color: $pink;
-    font-size: 1em;
-    
-}
-#gallery h4{
-	margin: 0 !important;
-    color: $teal;
-    font-size: 1em;
-     
-}
-#gallery img{
+.gallery img{
 	width: 100%;
 }
 .epilogue {
@@ -472,112 +424,7 @@ a:hover, a:focus, a:active { color: $purple; text-decoration: none; cursor: poin
 	color: $purple;
 }
 
-/* :::::::::: Footer Gallery Navigation :::::::::: */
-.container {
-	display: table;
-	height: 100%;
-}
-.block {
-	display: table-row;
-	height: 1px;
-}
-.push {
-	height: auto;
-}
-
-/* :::::::::: Old Gallery Navigation :::::::::: */
-.navigation-buttons a:hover{
-	color: $pink;
-}
-.print-navigation-button a{
-	color : $purple; 
-	padding-left:15px; 
-	font-size: 16px; 
-	text-decoration:none;
-}
-.print-navigation-sub-buttons a{
-	color : $purple; 
-	padding-left:25px; 
-	font-size: 14px; 
-	text-decoration:none;
-}
-.web-navigation-button a{
-	color : #F6893E; 
-	padding-left:15px; 
-	font-size: 16px; 
-	text-decoration:none;
-}
-.web-navigation-sub-buttons a{
-	color : #F6893E; 
-	padding-left:25px; 
-	font-size: 14px; 
-	text-decoration:none;
-}
-.logos-button a{
-	color : #B52942; 
-	padding-left:15px; 
-	font-size: 16px; 
-	text-decoration:none;
-}
-.misc-navigation-button a{
-	color : $teal; 
-	padding-left:15px; 
-	font-size: 16px; 
-	text-decoration:none;
-}
-.misc-navigation-sub-buttons a{
-	color : $teal; 
-	padding-left:25px; 
-	font-size: 14px; 
-	text-decoration:none;
-}
-.print-navigation-button a:hover{
-	color : #F6893E; 
-	padding-left:15px; 
-	font-size: 16px; 
-	text-decoration:none;
-}
-.print-navigation-sub-buttons a:hover{
-	color : #F6893E; 
-	padding-left:25px; 
-	font-size: 14px; 
-	text-decoration:none;
-}
-.web-navigation-button a:hover{
-	color : #B52942; 
-	padding-left:15px; 
-	font-size: 16px; 
-	text-decoration:none;
-}
-.web-navigation-sub-buttons a:hover{
-	color : #B52942; 
-	padding-left:25px; 
-	font-size: 14px; 
-	text-decoration:none;
-}
-.logos-button a:hover{
-	color : $teal; 
-	padding-left:15px; 
-	font-size: 16px; 
-	text-decoration:none;
-}
-.misc-navigation-button a:hover{
-	color : $purple; 
-	padding-left:15px; 
-	font-size: 16px; 
-	text-decoration:none;
-}
-.misc-navigation-sub-buttons a:hover{
-	color : $purple; 
-	padding-left:25px; 
-	font-size: 14px; 
-	text-decoration:none;
-}
-
 /* :::::::::: About Page :::::::::: */
-#AboutSidebar a:hover {
-	color: $pink;
-}
 .AboutTitle {
 	font-size: 1.2em;
 	color: $purple;
@@ -596,6 +443,7 @@ a:hover, a:focus, a:active { color: $purple; text-decoration: none; cursor: poin
 .ServicesHeading {
 	color: $teal;
 }
+
 /* :::::::::: Contact Page :::::::::: */
 .form {
 	float: left; 
@@ -722,7 +570,7 @@ a:hover, a:focus, a:active { color: $purple; text-decoration: none; cursor: poin
 /* Fonts */
 .fr-ui,
 .fr-info { 
-  font: normal 13px/21px "Lucida Sans Unicode", "Lucida Sans", "Lucida Grande", Verdana, Arial, sans-serif;
+  font: $font-regular;
 }
 
 /* Frames / UI */
