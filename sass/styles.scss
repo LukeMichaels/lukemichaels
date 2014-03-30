@@ -346,9 +346,9 @@ tr {
 
 /* :::::::::: General Typography :::::::::: */
 body { font-family: $font-regular; font-size: 1em; line-height: 1.5em; }
-h3 {font-family: $font-regular; color: $pink; padding:0px;}
-h4 {font-family: $font-regular; color: $teal; padding:0px;}
-#CopyrightText {text-align:center; font-family: $font-regular; color: $purple; padding:0px;}
+h3 { padding: 0px; font-family: $font-regular; color: $pink; }
+h4 { padding: 0px; font-family: $font-regular; color: $teal; }
+#CopyrightText { padding: 0px; text-align:center; font-family: $font-regular; color: $purple; }
 p { font-family: $font-regular; }
 a { font-family: $font-regular; color: $teal; text-decoration: none; cursor: pointer;  }
 a:visited { font-family: $font-regular; color: $teal; text-decoration: none; cursor: pointer; }
