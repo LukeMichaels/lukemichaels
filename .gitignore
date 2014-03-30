@@ -1,13 +1,5 @@
 /config.codekit
-/css-tricks
-/images
-/images/450px_images
-/images/550px_images
-/images/966px_img
-/new-site
-/css/styles.scss
-
-/local/
+/local
 
 /.sass-cache/
 
@@ -26,5 +18,3 @@
 /sass/.sass-cache/f2679c76d5cbbb79dbfb2c120ee36ab9894d223a/font-awesome.min.scssc
 /sass/.sass-cache/f2679c76d5cbbb79dbfb2c120ee36ab9894d223a/font-awesome.scssc
 /sass/.sass-cache/f2679c76d5cbbb79dbfb2c120ee36ab9894d223a/styles.scssc
-
-/css/old/_variables.css
