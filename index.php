@@ -3,10 +3,10 @@
 
 	<div id="full">
 		<h1>Welcome to my gallery</h1>
-		<p>Here you will find several examples of my work, ranging from web to print and everything in-between.<br /> If you like what you see please stop by my <a alt="Services" href="http://www.lukemichaels.com/services.php">services page</a></p>
+		<p>Here you will find several examples of my work, ranging from web to print and everything in-between.<br /> If you like what you see please stop by my <a alt="Services" href="http://www.lukemichaels.com/services.php">services page.</a></p>
 	</div>
 	
-	<div id="gallery" class="js-masonry">
+	<div id="gallery">
 		<!-- <div class="section group"> -->
 	
 			<div class="col span_1_of_2">
