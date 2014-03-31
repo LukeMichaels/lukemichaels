@@ -27,7 +27,7 @@
 				<a href='images/retina/explosions-in-the-sky.jpg' class='fresco' data-fresco-group='gallery'>		  			
 					<img src="images/retina/explosions-in-the-sky.jpg" title="Explosions in the Sky Flier" alt="Explosions in the Sky Flier">
 				</a><br /><br />
-				<h3>Explosions In The Sky @ The Granada</h1>
+				<h3>Explosions In The Sky at The Granada</h1>
 			  	<h4>16x24&quot; Flier design</h3>
 			  	<h5>Created in Adobe Illustrator &amp; Photoshop</h4>
 			</article>
@@ -36,7 +36,7 @@
 				<a href='images/retina/fairbanks-mr-history.jpg' class='fresco' data-fresco-group='gallery'>
 					<img src="images/retina/fairbanks-mr-history.jpg" title="Mr History Fairbanks Flier" alt="Mr History Fairbanks Flier">
 				</a><br /><br />
-				<h3>Fairbanks With Mr. History @ Record Bar</h1>
+				<h3>Fairbanks With Mr. History at Record Bar</h1>
 			  	<h4>11x17&quot; Flier design</h3>
 			  	<h5>Created in Adobe Illustrator</h4>
 			</article>
@@ -45,8 +45,54 @@
 				<a href='images/retina/mr-history-one.jpg' class='fresco' data-fresco-group='gallery'>
 					<img src="images/retina/mr-history-one.jpg" title="Mr History Crosstown Flier" alt="Mr History Crosstown Flier" />
 				</a><br /><br />
-				<h3>Mr History @ Crosstown Station</h1>
+				<h3>Mr History at Crosstown Station</h1>
 				<h4>11x17&quot; Flier design</h3>
+				<h5>Created in Adobe Illustrator</h4>
+			</article>
+			
+			<article class="piece-wrapper">
+				<a href='images/retina/mr-history-cousin-sleep-cousin-death.jpg' class='fresco' data-fresco-group='gallery'>
+			  		<img src="images/retina/mr-history-cousin-sleep-cousin-death.jpg" title="Mr History Cousin Sleep Cousin Death Album Artwork" alt="Mr History Cousin Sleep Cousin Death Album Artwork" />
+				</a><br /><br />
+				<h3>Mr. History "Cousin Sleep Cousin Death" Album Artwork</h1>
+				<h4>Album cover illustration
+				commissioned by Mr. History<br />
+				<h5>Created in Adobe Illustrator</h4>
+			</article>
+			
+			<article class="piece-wrapper">
+				<a href='images/retina/mr-history-five.jpg' class='fresco' data-fresco-group='gallery'>
+					<img src="images/retina/mr-history-five.jpg" title="Mr History at Davies Uptown" alt="Mr History at Davies Uptown" />
+				</a><br /><br />
+				<h3>Mr History at Davies Uptown</h1>
+				<h4>11x17&quot; Flier design</h3>
+				<h5>Created in Adobe Illustrator</h4>
+			</article>
+			
+			<article class="piece-wrapper">
+				<a href='images/retina/mr-history-gene-final.jpg' class='fresco' data-fresco-group='gallery'>
+					<img src="images/retina/mr-history-gene-final.jpg" title="Mr Hisotry Gene Albume Art" alt="Mr Hisotry Gene Albume Art" />
+				</a><br /><br />
+				<h3>Mr History "Gene" Album Artwork</h1>
+				<h4>Album cover illustration</h3>
+				<h5>Created in Adobe Illustrator</h4>
+			</article>
+			
+			<article class="piece-wrapper">
+				<a href='images/retina/orangutan-deck.jpg' class='fresco' data-fresco-group='gallery'>
+					<img src="images/retina/orangutan-deck.jpg" title="Orangutan Skate Deck" alt="Orangutan Skate Deck" />
+				</a><br /><br />
+				<h3>Orangutan Skate Deck</h1>
+				<h4>Skateboard design</h3>
+				<h5>Created in Adobe Illustrator</h4>
+			</article>
+			
+			<article class="piece-wrapper">
+				<a href='images/retina/mr-history-four-recolor.jpg' class='fresco' data-fresco-group='gallery'>
+					<img src="images/retina/mr-history-four-recolor.jpg" title="Mr. History at the Riot Room" alt="Mr. History at the Riot Room" />
+				</a><br /><br />
+				<h3>Mr. History at the Riot Room</h1>
+				<h4>Flier Design</h3>
 				<h5>Created in Adobe Illustrator</h4>
 			</article>
 	  	
@@ -93,40 +139,36 @@
 			</article>
 			
 			<article class="piece-wrapper">
-				<a href='images/retina/dj-red-beard.jpg' class='fresco' data-fresco-group='gallery'>
-					<img src="http://www.lukemichaels.com/images/550px_images/Mr_History_Poster_3.jpg" title="Mr Hisotry Flier 4" alt="Mr Hisotry Flier 4" />
+				<a href='images/retina/mr-history-seven.jpg' class='fresco' data-fresco-group='gallery'>
+					<img src="images/retina/mr-history-seven.jpg" title="Mr Hisotry Flier 4" alt="Mr Hisotry Flier 4" />
 				</a><br /><br />
-				<h3>Mr History Flier</h1>
+				<h3>Mr History at The Riot Room</h1>
 				<h4>11x17&quot; Flier design</h3>
 				<h5>Created in Adobe Illustrator</h4>
 			</article>
 			
-		
-		</div><!-- .col span_1_of_2 -->
-
-
-
-		<!-- <h2>Album Artwork</h2><br /> -->
-		<div class="col span_1_of_2">
-
+			
 			<article class="piece-wrapper">
-				<a href='images/retina/mr-history-cousin-sleep-cousin-death.jpg' class='fresco' data-fresco-group='gallery'>
-			  		<img src="images/retina/mr-history-cousin-sleep-cousin-death.jpg" title="Mr History Cousin Sleep Cousin Death Album Artwork" alt="Mr History Cousin Sleep Cousin Death Album Artwork" />
+				<a href='images/retina/rhino-deck.jpg' class='fresco' data-fresco-group='gallery'>
+					<img src="images/retina/rhino-deck.jpg" title="Rhino Skate Deck" alt="Rhino Skate Deck" />
 				</a><br /><br />
-				<h3>Mr. History "Cousin Sleep Cousin Death" Album Artwork</h1>
-				<h4>Album cover illustration
-				commissioned by Mr. History<br />
+				<h3>Rhino Skate Deck</h1>
+				<h4>Skateboard design</h3>
 				<h5>Created in Adobe Illustrator</h4>
 			</article>
+			
+			<article class="piece-wrapper">
+				<a href='images/retina/elephant-deck.jpg' class='fresco' data-fresco-group='gallery'>
+					<img src="images/retina/elephant-deck.jpg" title="Elephant Skate Deck" alt="Elephant Skate Deck" />
+				</a><br /><br />
+				<h3>Elephant Skate Deck</h1>
+				<h4>Skateboard design</h3>
+				<h5>Created in Adobe Illustrator</h4>
+			</article>
+		
 		</div><!-- .col span_1_of_2 -->
-
-
     
-    
-    <!--Skateboards-->
-    <img src="http://www.lukemichaels.com/images/550px_images/ElephantSkateboard.jpg" title="Elephant Skateboard" alt="Elephant Skateboard" /><br /><br />
-	<h1>Elestunt Skate Deck</h1>
-	  	<h4>Created in Adobe Illustrator</h4><br />
+    <!--
 	  	
 	  	<img src="http://www.lukemichaels.com/images/550px_images/RhinoSkateboard.jpg" title="Rhino Skateboard" alt="Rhino Skateboard" /><br /><br />
   	<h1>Grindnocerous Skate Deck</h1>
@@ -139,20 +181,6 @@
   	<img src="http://www.lukemichaels.com/images/550px_images/RevolutionDeck.jpg" title="Revolution Skateboard" alt="Revolution Skateboard" /><br /><br />
   	<h1>Revolt Skate Deck</h1>
 	  	<h4>Created in Adobe Illustrator</h4><br />
-  	
-  	<img src="http://www.lukemichaels.com/images/550px_images/ApeDeck.jpg" title="Ape Skateboard" alt="Ape Skateboard" /><br /><br />
-  	<h1>Ape Skate Deck</h1>
-	  	<h4>Created in Adobe Illustrator</h4><br />
-
-
-	<!--Album Artwork-->
-	<img src="http://www.lukemichaels.com/images/550px_images/MrHistory_Gene.jpg" title="Mr History Gene Album Artwork" alt="Mr History Gene Album Artwork" /><br /><br />
-	<h1>Mr. History "Gene" Album Artwork</h1><br />
-	<h3>Album cover & CD illustrations
-	commisioned by Mr. History<br />
-	Dimensions: Front - 5 x 5&quot;<br />
-	Back - 5 x 5&quot;</h3>
-	<h4>Created in Adobe Illustrator</h4><br />
 
 	<img src="http://www.lukemichaels.com/images/550px_images/DoorsCDCover.jpg" title="Doors CD Cover" alt="Doors CD Cover" /><br /><br />
     <img src="http://www.lukemichaels.com/images/550px_images/DoorsCDInsert.jpg" title="Doors CD Insert" alt="Doors CD Insert" /><br /><br />
@@ -163,7 +191,6 @@
 	<h4>Created in Adobe Illustrator &amp; Photoshop</h4><br />
 	
 	
-	<!--Apparel-->
 	<img src="http://www.lukemichaels.com/images/550px_images/MrHistoryShirt.jpg" title="Mr History T-Shirt" alt="Mr History T-Shirt" /><br /><br />
 	<h1>Mr. History Shirt</h1>
   	<h3>3 Color T-Shirt Design</h3>
@@ -220,7 +247,6 @@
   	<h4>Created in Adobe Illustrator</h4><br />
   	
 	
-	<!--Banners-->
 	<img src="http://www.lukemichaels.com/images/550px_images/SpringInvitationalBanner.jpg" title="Spring Invitational 2010 Banner" alt="Spring Invitational 2010 Banner" /><br /><br />
 	<h1>The Spring Inviational 2010 Banner</h1>
 	<h3>This huge 12 FT x 10 FT banner hung on the side of The<br />
@@ -234,7 +260,6 @@
 	<h4>Created in Adobe Illustrator</h4><br />
 	
 	
-	<!--Magazines-->
     <img src="http://www.lukemichaels.com/images/550px_images/SIBF_Directory_2011_Front.jpg" title="SIBF Directory 2011 - Front" alt="SIBF Directory 2011 - Front" /><br /><br />
 	<img src="http://www.lukemichaels.com/images/550px_images/SIBF_Directory_2011_Back.jpg" title="SIBF Directory 2011 - Back" alt="SIBF Directory 2011 - Back" /><br /><br />
 	<h1>SIBF Membership Directory 2011</h1>
@@ -279,7 +304,6 @@
 	<h4>Created in Adobe Illustrator</h4><br />
 	
 	
-	<!--Business Cards-->
 	<img src="http://www.lukemichaels.com/images/550px_images/Luke_Michaels_BusinessCard_2011_Front.jpg" title="Luke Michaels Business Card 2011 - Front" alt="Luke Michaels Business Card 2011 - Front" /><br /><br />
 	<img src="http://www.lukemichaels.com/images/550px_images/Luke_Michaels_BusinessCard_2011_Back.jpg" title="Luke Michaels Business Card 2011 - Back" alt="Luke Michaels Business Card 2011 - Back" /><br /><br />
 	<h1>My 2011 Business Card</h1>
@@ -289,6 +313,7 @@
 	<img src="http://www.lukemichaels.com/images/550px_images/Simple_Sushi_Business_Card_Back.jpg" title="Simple Sushi Business Card - Back" alt="Simple Sushi Business Card - Back" /><br /><br />
 	<h1>Simple Sushi Business Card</h1>
 	<h4>Created in Adobe Illustrator</h4><br />
+-->
 	
 </div><!--GalleryMain-->
 
