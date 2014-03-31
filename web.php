@@ -88,7 +88,7 @@
   			<a href='images/retina/bobs-red-mill-pie-page.jpg' class='fresco' data-fresco-group='web'>
 		  		<img src="images/retina/bobs-red-mill-pie-page.jpg" title="Bob's Red Mill Pie crust Promotion" alt="Bob's Red Mill Pie crust Promotion">
   			</a><br /><br />
-			<h3>Bob's Red Mill Pie crust Promotion</h1>
+			<h3>Bob's Red Mill Pie Crust Promotion</h1>
 		  	<h4>website design and development</h3>
 		  	<h5>HTML, CSS, PHP</h4>
   		</article>	
@@ -109,6 +109,15 @@
 			<h3>Simple Sushi</h1>
 		  	<h4>website design & development</h3>
 		  	<h5>HTML, CSS, JavaScript</h4>
+  		</article>	
+  		
+  		<article class="piece-wrapper">
+  			<a href='images/retina/grains-of-discovery.jpg' class='fresco' data-fresco-group='web'>
+		  		<img src="images/retina/grains-of-discovery.jpg" title="Grains of Discovery" alt="Grains of Discovery">
+  			</a><br /><br />
+			<h3>Grains of Discovery</h1>
+		  	<h4>website design & development</h3>
+		  	<h5>HTML, CSS, JavaScript, jQuery</h4>
   		</article>			 
 		 
 	</div><!-- .col span_1_of_2 -->
