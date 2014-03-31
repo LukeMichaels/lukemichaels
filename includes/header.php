@@ -57,8 +57,8 @@
 						    <ul class="dropdown-menu">  
 						     <li><a href="web.php">Web</a></li>  
 							 <li><a href="print.php">Print</a></li>  
-							 <li><a href="branding.php">Branding</a></li> 
-							 <li><a href="misc.php">Misc</a></li>  
+							 <!--<li><a href="branding.php">Branding</a></li> 
+							 <li><a href="misc.php">Misc</a></li> --> 
 						    </ul><!--dropdown-menu-->  
 						  </li><!--dropdown-->  
 						</ul><!--nav drop-nav-->
