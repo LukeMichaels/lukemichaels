@@ -3,9 +3,10 @@
 
 	<div id="full">
 		<h1>Print Gallery</h1>
-		<p>
-			
+		<!--
+<p>
 		</p>
+-->
 	</div>
 	
 	<div class="gallery">
