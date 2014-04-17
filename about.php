@@ -6,6 +6,7 @@
   	<h1>Hi I'm Luke</h1>	
     	<p>
     		I enjoy cycling, tea, live shows, cooking, programming and design.
+    		
     	</p><br />
     	
     	<p>
