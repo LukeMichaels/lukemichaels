@@ -53,10 +53,10 @@
   	
   	<span class="AboutTitle">Software Proficiency</span><br />
   		<p style="color: #00A2A6;">
-	    	Illustrator, Photoshop, InDesign, Coda, Kleidoscope, Dreamweaver, FontExplorer,<br />
-	    	Pages, Numbers, Keynote, Excel, Word, PowerPoint, Emma, Mail Chimp, Tower, CodeKit,<br />
-	    	Terminal, Atom.io, Viseo, MAMP, Dropbox, CodeBox, xScope, OS X, iOS, Linux(Fedora), <br />
-	    	Windows... I'm a big fan of trying out new software :-)
+	    	Grunt, Bower, Illustrator, Photoshop, InDesign, Coda, Kleidoscope, Dreamweaver,<br /> 
+	    	FontExplorer, Pages, Numbers, Keynote, Excel, Word, PowerPoint, Emma, Mail Chimp,<br />
+	    	Tower, CodeKit, Terminal, Atom.io, Viseo, MAMP, Dropbox, CodeBox, xScope, OS X, iOS,<br />
+	    	Linux(Fedora), Windows... I'm a big fan of trying out new software :-)
   		</p><br />
   	
   	<span class="AboutTitle">Academic Experience</span><br />
