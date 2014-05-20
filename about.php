@@ -38,7 +38,7 @@
 	    	<span class="AboutHeading">Content Management - </span><span class="AboutDetail">WordPress, Ghost, Joomla.</span><br /> 
 	    	<span class="AboutHeading">Print Design - </span><span class="AboutDetail">Typesetting, layout design, typography, Page DNA.</span><br />
 	    	<span class="AboutHeading">Email Newsletters - </span><span class="AboutDetail">MailChimp, Emma, Constant Contact.</span><br />
-	    	<span class="AboutHeading">Operating Systems - </span><span class="AboutDetail">Mac OS, iOS, Android, Chrome, Linux, Unix, Windows.</span>
+	    	<span class="AboutHeading">Operating Systems - </span><span class="AboutDetail">Mac OS, iOS, Android, Chrome, Fedora, Windows.</span>
   		</span><br /><br />
   		
   	<span class="AboutTitle">Skills - Secondary</span><br />
@@ -53,10 +53,10 @@
   	
   	<span class="AboutTitle">Software Proficiency</span><br />
   		<p style="color: #00A2A6;">
-	    	Grunt, Bower, Illustrator, Photoshop, InDesign, Coda, Kleidoscope, Dreamweaver,<br /> 
-	    	FontExplorer, Pages, Numbers, Keynote, Excel, Word, PowerPoint, Emma, Mail Chimp,<br />
+	    	Grunt, Bower, Yeoman, Illustrator, Photoshop, InDesign, Coda, Kaleidoscope, Dreamweaver,<br /> 
+	    	FontExplorer, Pages, Numbers, Keynote, Excel, Word, PowerPoint, Emma, MailChimp,<br />
 	    	Tower, CodeKit, Terminal, Atom.io, Viseo, MAMP, Dropbox, CodeBox, xScope, OS X, iOS,<br />
-	    	Linux(Fedora), Windows... I'm a big fan of trying out new software :-)
+	    	Flash, Linux(Fedora), Windows... I'm a big fan of trying out new software :-)
   		</p><br />
   	
   	<span class="AboutTitle">Academic Experience</span><br />
