@@ -44,20 +44,18 @@
 					  <li><a href="services.php">Services</a></li>
 					  <li><a href="contact.php">Contact</a></li>
 					  <li><a href="index.php">Gallery</a></li>
-					  <li><a href="web.php">Web</a></li>
-					  <li><a href="print.php">Print</a></li>
 					</ul>
         </nav>
-  		</div><!--stickyheader-->
+  		</div>
   	</header>
   	
   	<div class="wrapper">
   
 	  	<!-- :::::::::: header image :::::::::: -->
-  		<img src="./images/ui/header.jpg" class="img-responsive" alt="About Gallery Services Contact" usemap="#Map"/>
-      <map name="Map">
-		   <area shape="poly" coords="550,349,494,310,619,175,651,227" href="about.php" target="_self" alt="about">
-       <area shape="poly" coords="624,172,658,222,860,139,844,70" href="index.php" target="_self" alt="gallery">
-       <area shape="poly" coords="861,70,875,135,1091,171,1134,114" href="services.php" target="_self" alt="services">
-       <area shape="poly" coords="1138,119,1102,173,1264,311,1336,287" href="contact.php" target="_self" alt="contact">
-      </map>  
+  		<img src="./images/ui/header-1080.jpg" class="img-responsive" alt="About Gallery Services Contact" usemap="#Map"/>
+  		<map name="Map">
+        <area shape="poly" coords="1151,454,1069,419,1226,226,1281,300" href="about.php" alt="">
+        <area shape="poly" coords="1235,219,1295,286,1547,179,1534,97" href="index.php">
+        <area shape="poly" coords="1550,96,1561,177,1850,226,1885,137" href="services.php">
+        <area shape="poly" coords="1860,234,1899,143,2165,373,2058,404" href="contact.php">
+      </map>

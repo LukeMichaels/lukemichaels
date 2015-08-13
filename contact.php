@@ -41,9 +41,10 @@
   			
     	<div class="form">
     		<form name="contactform" method="post" action="send_email.php" >    
-    	    	name:<br><input name="name" type="text" class="form_1"><br><br>
+    	    name:<br><input name="name" type="text" class="form_1"><br><br>
     			e-mail:<br><input name="email" type="text" class="form_1"><br><br>
-    			message:<br><textarea name="message" cols="42" rows="20" class="form_2"></textarea><br><br>
+    			message:<br><textarea name="message" cols="42" rows="20" class="form_2"></textarea>
+<!--     			<textarea name="message" cols="42" rows="20" class="form_2"></textarea> --><br><br>
     			<span class="form-buttons">
     				<button class="contact-button"  alt="send" value="Send" style="float:right; margin-left: 5%;" onClick="submit();">Send</button>
     				<button class="contact-button" alt="reset" style="float: right;" onClick="reset(); return false;">Reset</button>

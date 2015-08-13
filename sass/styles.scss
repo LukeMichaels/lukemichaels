@@ -28,7 +28,7 @@ body {
 .wrapper {
 	margin: 0 auto;
 	width: 100%;
-	max-width: 900px;
+	max-width: 1080px;
 	background-color: #BFDA71;
 	
 	img {
@@ -165,7 +165,7 @@ body {
   background-color: $teal;
   
   nav {
-    max-width: 900px;
+    max-width: 1080px;
     margin: 0 auto;
   }
   
@@ -197,6 +197,7 @@ body {
   width: 100%;
   
   h1 {
+    margin: 20px 0 5px;
     color: white;
     text-align: center;
     font-family: $font-bold;
@@ -205,6 +206,8 @@ body {
   }
   
   p {
+    width: 70%;
+    margin: 0 15% 20px;
     color: $purple;
     text-align: center;
     font-family: $font-regular;

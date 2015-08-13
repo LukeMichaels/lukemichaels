@@ -1,5 +1,5 @@
 <!-- :::::::::: Header :::::::::: -->
-<?php include 'includes/header.php'; ?>
+<?php include 'header.php'; ?>
 
 <!-- :::::::::: About Me :::::::::: -->
 <div class="two-columns-main">
@@ -105,7 +105,7 @@
 					<i class="fa fa-paperclip"></i>
 				</td>
 				<td class="about-link">
-					<a href="http://www.lukemichaels.com/Luke_Michaels_Resume_2014_Web.pdf" alt="download my resume"> Resume</a>
+					<a href="http://www.lukemichaels.com/Luke_Michaels_Resume_2015_Web.pdf" alt="download my resume"> Resume</a>
 				</td>
 			</tr>
 			<tr>
@@ -177,4 +177,4 @@
 </div><!--AboutSidebar-->
 
 <!-- :::::::::: Footer :::::::::: -->
-<?php include 'includes/footer.php'; ?>
+<?php include 'footer.php'; ?>

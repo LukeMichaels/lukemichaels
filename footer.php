@@ -1,5 +1,5 @@
    	<!-- :::::::::: Footer Image :::::::::: -->
-   	<img src="./images/ui/footer.jpg" class="img-responsive" alt="Copyright Luke Michaels">
+   	<img src="./images/ui/footer-1080.jpg" class="img-responsive" alt="Copyright Luke Michaels">
    
    </div><!--wrapper-->
    

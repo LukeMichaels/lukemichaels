@@ -1,5 +1,5 @@
 <!-- :::::::::: Header :::::::::: -->
-<?php include 'includes/header.php'; ?>
+<?php include 'header.php'; ?>
 
   <!-- :::::::::: Services Offered :::::::::: -->
   <section class="page-header section group">
@@ -215,4 +215,4 @@
   </section>	
 
 <!-- :::::::::: Footer :::::::::: -->
-<?php include 'includes/footer.php'; ?>
+<?php include 'footer.php'; ?>
