@@ -1,5 +1,5 @@
 <!-- :::::::::: Header :::::::::: -->
-<?php include 'includes/header.php'; ?>
+<?php include 'header.php'; ?>
 
 
   <!-- :::::::::: Contact :::::::::: -->
@@ -58,4 +58,4 @@
 	
 
 <!-- :::::::::: Footer :::::::::: -->
-<?php include 'includes/footer.php'; ?>
+<?php include 'footer.php'; ?>
