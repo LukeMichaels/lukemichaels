@@ -1,16 +1,6 @@
 <!-- :::::::::: Header :::::::::: -->
 <?php include 'header.php'; ?>
 
-	<section class="page-header section group">
-  	
-  	<div class="col span_2_of_2">
-  		<h1>Welcome to my gallery</h1>
-  		<p>Here you will find several examples of my work, ranging from web to print and everything in-between.<br /> If you like what you see please stop by my <a alt="Services" href="http://www.lukemichaels.com/services.php">services page.</a></p>
-  	</div>
-  	
-	</section><!-- .page-header -->
-	
-	
 	<section class="page-content gallery section group">
 	
 		<div class="col span_1_of_2">
@@ -164,8 +154,7 @@
   <section class="page-footer section group">
 	  <div class="col span_2_of_2">
 	  	<p>
-		  	For more examples of my creative and technical work,<br />
-	  	  please visit my <a href="http://www.lukemichaels.com/web.php">web</a> and <a href="http://www.lukemichaels.com/print.php">print</a> galleries.
+		  	For more examples of my creative and technical work, please visit my <a href="http://www.lukemichaels.com/web.php">web</a> and <a href="http://www.lukemichaels.com/print.php">print</a> galleries. If you like what you see please stop by my <a alt="Services" href="http://www.lukemichaels.com/services.php">services page.</a>
 	    </p>
 	  </div>
   </section>

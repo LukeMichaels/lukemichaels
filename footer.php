@@ -1,5 +1,17 @@
    	<!-- :::::::::: Footer Image :::::::::: -->
-   	<img src="./images/ui/footer-1080.jpg" class="img-responsive" alt="Copyright Luke Michaels">
+    <!--
+   	<section class="desktop-footer">
+      <div class="module parallax-footer parallax-2"></div>
+  	</section>
+    -->
+
+    <!--
+    <section class="desktop-footer">
+      <div class="footer-image"></div>
+  	</section>
+    -->
+   	
+    <img src="./images/ui/footer-1080.jpg" class="img-responsive" alt="Copyright Luke Michaels">
    
    </div><!--wrapper-->
    
@@ -11,26 +23,26 @@
     <script src="js/fresco.js"></script>
     
     <script type="text/javascript">
-		  $(function() {
-				    
-		    /* :::::::::: dynamic image maps :::::::::: */
-		    $('img[usemap]').rwdImageMaps();
-		    $('area').on('click', function() {
-				  /* alert($(this).attr('alt') + ' clicked'); */
-			  });
-
+  	  $(function() {
+  			    
+  	    /* :::::::::: dynamic image maps :::::::::: */
+  	    $('img[usemap]').rwdImageMaps();
+  	    $('area').on('click', function() {
+  			  /* alert($(this).attr('alt') + ' clicked'); */
+  		  });
+  
         /* :::::::::: Show/Hide Top Nav on Scroll :::::::::: */
         $(window).scroll(function () {
-        if ( $(this).scrollTop() > 200 && !$('#stickyheader').hasClass('open') ) {
-          $('#stickyheader').addClass('open');
-          $('#stickyheader').slideDown();
-         } else if ( $(this).scrollTop() <= 200 ) {
-          $('#stickyheader').removeClass('open');
-          $('#stickyheader').slideUp();
-        }
-      });
-			
-	    })(jQuery);
+          if ( $(this).scrollTop() > 100 && !$('#stickyheader').hasClass('open') ) {
+            $('#stickyheader').addClass('open');
+            $('#stickyheader').slideDown();
+           } else if ( $(this).scrollTop() <= 100 ) {
+            $('#stickyheader').removeClass('open');
+            $('#stickyheader').slideUp();
+          }
+        });
+        			
+      })(jQuery);
     </script>
 
   </body>
