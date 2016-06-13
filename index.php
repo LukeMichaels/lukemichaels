@@ -154,7 +154,7 @@
   <section class="page-footer section group">
 	  <div class="col span_2_of_2">
 	  	<p>
-		  	For more examples of my creative and technical work, please visit my <a href="http://www.lukemichaels.com/web.php">web</a> and <a href="http://www.lukemichaels.com/print.php">print</a> galleries. If you like what you see please stop by my <a alt="Services" href="http://www.lukemichaels.com/services.php">services page.</a>
+		  	For more examples of my creative and technical work, please visit my <a href="/web.php">web</a> and <a href="/print.php">print</a> galleries. If you like what you see please stop by my <a alt="Services" href="/services.php">services page.</a>
 	    </p>
 	  </div>
   </section>

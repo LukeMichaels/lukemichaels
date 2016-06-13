@@ -132,7 +132,7 @@
 	  <div class="col span_2_of_2">
 	  	<p>
 		  	For more examples of my creative and technical work,<br />
-	  	  please visit my <a href="http://www.lukemichaels.com/">main</a> and <a href="http://www.lukemichaels.com/print.php">print</a> galleries.
+	  	  please visit my <a href="/">main</a> and <a href="/print.php">print</a> galleries.
 	    </p>
 	  </div>
   </section>

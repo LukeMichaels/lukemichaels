@@ -98,7 +98,7 @@
     
     <!-- :::::::::: Sidebar :::::::::: -->
     <div class="two-columns-left">
-    	<img src="http://www.lukemichaels.com/images/retina/me-2.jpg" border="0"/><br />
+    	<img src="/images/retina/me-2.jpg" border="0"/><br />
     	<span style ="float: left; padding: 10px 0 10px 0;">
     		<table border="0" cellpadding="0" cellspacing="0">
     			<tr>
@@ -106,7 +106,7 @@
     					<i class="fa fa-paperclip"></i>
     				</td>
     				<td class="about-link">
-    					<a href="http://www.lukemichaels.com/Luke_Michaels_Resume_2016.pdf" alt="download my resume"> Resume</a>
+    					<a href="/Luke_Michaels_Resume_2016.pdf" alt="download my resume"> Resume</a>
     				</td>
     			</tr>
     			<tr>
