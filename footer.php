@@ -15,9 +15,6 @@
   <script src="//code.jquery.com/jquery.js"></script>
   <script src="js/modernizr-2.5.3.min.js"></script>
   <script src="js/jquery.rwdImageMaps.min.js"></script>
-  <script src="js/jquery.imagesloaded.js"></script>
-  <script src="js/jquery.colorbox-min.js"></script>
-  <script src="js/fresco.js"></script>
 
   <script>
     jQuery(document).ready(function($) {
@@ -135,6 +132,12 @@
       $('#mr-history-four-close-button').on('click', function(e) { 
         $('#mr-history-four-overlay').fadeOut(500); 
       });
+      
+      
+      $('#thumbs img').click(function(){
+        $('#largeImage').attr('src',$(this).attr('src').replace('thumb','large'));
+      });
+
     });
 
     $(document).on( 'keydown', function (e) {

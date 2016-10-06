@@ -160,15 +160,26 @@
       <button id="rogue-close-button">X</button>
     </div>
   </div>
-  <div class="row">
-    <div class="col span_3_of_4">
-      <img src="images/retina/rogue-landing-page.jpg" title="Rogue Home Page" alt="Rogue Home Page"><br>
-      <img src="images/retina/rogue-beer-page.jpg" title="Rogue Beer Page" alt="Rogue Beer Page">
-    </div>
-    <div class="col span_1_of_4">
-      <h3>Rogue Design Composition</h3>
-      <h4>website design</h4>
-      <h5>The Rogue Logo, copy and artwork for Saint Rogue Red are all property of Rogue Ales & Spirits</h5>
+  <div class="overlay-body">
+    <div class="row">
+      <div class="col span_3_of_5">
+        <img src="images/retina/rogue-landing-page.jpg" title="Rogue Home Page" alt="Rogue Home Page"><br>
+        <img src="images/retina/rogue-beer-page.jpg" title="Rogue Beer Page" alt="Rogue Beer Page">
+      </div>
+      <div class="col span_2_of_5">
+        <h3>Rogue Design Composition</h3>
+        <div class="project-type">website design</div>
+        <p>
+          These comps were built in 2013 as a proposed re-design for Rogue Ales & Spirits website (their site was very out-of-date at the time). The company mission statement is very important to Rogue, so I placed it front and center, and also gave the `about rogue` button more weight than the other sections of the site. The design is a little heavy on copy, and would ultimately need to be edited down by someone more skilled at writing than myself.
+        </p>
+        <p>
+          If I had to re-visit this project I would try to bring more color into it and I would give less prominence to the social media buttons.
+        </p>
+        <p>
+          The comps were build using Adobe Photoshop & Adobe Illustrator.
+        </p>
+        <em>The Rogue Logo, copy and artwork for Saint Rogue Red are all property of Rogue Ales & Spirits</em>
+      </div>
     </div>
   </div>
 </div>
@@ -180,12 +191,20 @@
     </div>
   </div>
   <div class="row">
-    <div class="col span_3_of_4">
+    <div class="col span_3_of_5">
       <img src="images/retina/bobs-blog.jpg" title="Bob's Red Mill Blog" alt="Bob's Red Mill Blog">
     </div>
-    <div class="col span_1_of_4">
+    <div class="col span_2_of_5">
       <h3>Bob's Red Mill Blog</h3>
-      <h4>website design/development</h4>
+      <div class="project-type">website design/development</div>
+      <p>
+        In 2011 I built the first-ever blog for Bob's Red Mill. It was built on the WordPress CMS so that their social media manager could easily add/remove content. The theme was built 100% from the ground up to represent the uniqueness of their brand. Bob's Red Mill had a very rustic, old-timey feel in their branding and this concept of a sign on a wooden building was in-line with that.
+      </p>
+      <p>
+        The blog was used until 2016, when it was replaced by a new responsive theme. I built this blog during the infancy of responsive design, so it utilized a dedicated desktop and mobile version to display content.
+      </p>
+      <p>
+        The artwork was built in Adobe Photoshop & Adobe Illustrator. The theme was built on the WordPress CMS using HTML, CSS and JavaScript.
     </div>
   </div>
 </div>
@@ -197,12 +216,12 @@
     </div>
   </div>
   <div class="row">
-    <div class="col span_3_of_4">
+    <div class="col span_3_of_5">
       <img src="images/retina/bobs-red-mill.jpg" title="Bob's Red Mill" alt="Bob's Red Mill">
     </div>
-    <div class="col span_1_of_4">
+    <div class="col span_2_of_5">
       <h3>Bob's Red Mill</h3>
-      <h4>website design/development</h4>
+      <div class="project-type">website design/development</div>
     </div>
   </div>
 </div>
@@ -214,24 +233,22 @@
     </div>
   </div>
   <div class="row">
-    <div class="col span_3_of_4">
+    <div class="col span_1_of_2">
       <img src="images/retina/grains-of-discovery-marquee.jpg" title="Grains of Discovery Marquee" alt="Grains of Discovery Marquee">
-      <br /><br />
       <img src="images/retina/pie-crust-marquee.jpg" title="Gluten Free Pie Crust Mix Marquee" alt="Gluten Free Pie Crust Mix Marquee">
-      <br /><br />
       <img src="images/retina/oatmeal-marquee.jpg" title="World's Best Oatmeal Marquee" alt="World's Best Oatmeal Marquee">
-      <br /><br />
-      <!-- <img src="images/retina/Power-Up-With-Chia-Seed.jpg" title="Chia Seed Marquee" alt="Chia Seed Marquee"><br /><br /> -->
+    </div>
+    <div class="col span_1_of_2">
       <img src="images/retina/coconut-flour-marquee.jpg" title="Coconut Flour" alt="Coconut Flour Marquee">
-      <br /><br />
       <img src="images/retina/gluten-free-muesli-marquee.jpg" title="Gluten Free Muesli Marquee" alt="Gluten Free Muesli Marquee">
-      <br /><br />
       <img src="images/retina/holiday-marquee.jpg" title="Holiday Marquee" alt="Holiday Marquee">
     </div>
-    <div class="col span_1_of_4">
+    <div class="col span_3_of_5">
+    </div>
+    <div class="col span_2_of_5">
       <h3>Bob's Red Mill Marquees</h3>
-      <h4>graphic design</h4>
-      <h5>Created in Photoshop & Illustrator</h5>
+      <div class="project-type">graphic design</div>
+      <p>Created in Photoshop & Illustrator</p>
     </div>
   </div>
 </div>
@@ -243,13 +260,13 @@
     </div>
   </div>
   <div class="row">
-    <div class="col span_3_of_4">
+    <div class="col span_3_of_5">
       <img src="images/retina/portland-marathon.jpg" title="Portland Marathon" alt="Portland Marathon">
     </div>
-    <div class="col span_1_of_4">
+    <div class="col span_2_of_5">
       <h3>Portland Marathon Design Composition</h3>
-      <h4>website design</h4>
-      <h5>Sadly, this design comp. was never used; However, they clearly borrowed from it and did a slight re-design.</h5>
+      <div class="project-type">website design</div>
+      <p>Sadly, this design comp. was never used; However, they clearly borrowed from it and did a slight re-design.</p>
     </div>
   </div>
 </div>
@@ -261,13 +278,13 @@
     </div>
   </div>
   <div class="row">
-    <div class="col span_3_of_4">
+    <div class="col span_3_of_5">
       <img src="images/retina/radiohead.jpg" title="Radiohead Flier" alt="Radiohead Flier"/>
     </div>
-    <div class="col span_1_of_4">
+    <div class="col span_2_of_5">
       <h3>Radiohead Flier</h3>
-      <h4>11x17&quot; Flier design</h4>
-      <h5>Created in Adobe Illustrator &amp; Photoshop</h5>
+      <div class="project-type">11x17&quot; Flier design</div>
+      <p>Created in Adobe Illustrator &amp; Photoshop</p>
     </div>
   </div>
 </div>
@@ -279,13 +296,13 @@
     </div>
   </div>
   <div class="row">
-    <div class="col span_3_of_4">
+    <div class="col span_3_of_5">
       <img src="images/retina/explosions-in-the-sky.jpg" title="Explosions in the Sky Flier" alt="Explosions in the Sky Flier">
     </div>
-    <div class="col span_1_of_4">
+    <div class="col span_2_of_5">
       <h3>Explosions In The Sky at The Granada</h3>
-      <h4>16x24&quot; Flier design</h4>
-      <h5>Created in Adobe Illustrator &amp; Photoshop</h5>
+      <div class="project-type">16x24&quot; Flier design</div>
+      <p>Created in Adobe Illustrator &amp; Photoshop</p>
     </div>
   </div>
 </div>
@@ -297,13 +314,13 @@
     </div>
   </div>
   <div class="row">
-    <div class="col span_3_of_4">
+    <div class="col span_3_of_5">
       <img src="images/retina/fairbanks-mr-history.jpg" title="Mr History Fairbanks Flier" alt="Mr History Fairbanks Flier">
     </div>
-    <div class="col span_1_of_4">
+    <div class="col span_2_of_5">
       <h3>Fairbanks With Mr. History at Record Bar</h3>
-      <h4>11x17&quot; Flier design</h4>
-      <h5>Created in Adobe Illustrator</h5>
+      <div class="project-type">11x17&quot; Flier design</div>
+      <p>Created in Adobe Illustrator</p>
     </div>
   </div>
 </div>
@@ -315,13 +332,13 @@
     </div>
   </div>
   <div class="row">
-    <div class="col span_3_of_4">
+    <div class="col span_3_of_5">
       <img src="images/retina/mr-history-cousin-sleep-cousin-death.jpg" title="Mr History Cousin Sleep Cousin Death Album Artwork" alt="Mr History Cousin Sleep Cousin Death Album Artwork" />
     </div>
-    <div class="col span_1_of_4">
+    <div class="col span_2_of_5">
       <h3>Mr. History "Cousin Sleep Cousin Death" Album Artwork</h3>
-      <h4>Album cover illustration commissioned by Mr. History</h4>
-      <h5>Created in Adobe Illustrator</h5>
+      <div class="project-type">Album cover illustration</div>
+      <p>Created in Adobe Illustrator</p>
     </div>
   </div>
 </div>
@@ -333,15 +350,15 @@
     </div>
   </div>
   <div class="row">
-    <div class="col span_3_of_4">
+    <div class="col span_3_of_5">
       <img src="images/retina/good-foot-stock-one.jpg" title="Good Foot Stock Flier" alt="Good Foot Stock Flier">
       <br><br>
       <img src="images/retina/good-foot-stock-two.jpg" title="Good Foot Stock Flier" alt="Good Foot Stock Flier">
     </div>
-    <div class="col span_1_of_4">
+    <div class="col span_2_of_5">
       <h3>Good Foot Stock Fliers</h3>
-      <h4>11x17&quot; Flier design</h4>
-      <h5>Created in Adobe Illustrator</h5>
+      <div class="project-type">11x17&quot; Flier design</div>
+      <p>Created in Adobe Illustrator</p>
     </div>
   </div>
 </div>
@@ -353,13 +370,13 @@
     </div>
   </div>
   <div class="row">
-    <div class="col span_3_of_4">
+    <div class="col span_3_of_5">
       <img src="images/retina/cobra-skulls-bent-left.jpg" title="Cobra Skulls Flier" alt="Cobra Skulls Flier" />
     </div>
-    <div class="col span_1_of_4">
+    <div class="col span_2_of_5">
       <h3>Cobra Skulls W/ Bent Left Flier</h3>
-      <h4>11x17&quot; Flier design</h4>
-      <h5>Created in Adobe Illustrator &amp; Photoshop</h5>
+      <div class="project-type">11x17&quot; Flier design</div>
+      <p>Created in Adobe Illustrator &amp; Photoshop</p>
     </div>
   </div>
 </div>
@@ -371,13 +388,13 @@
     </div>
   </div>
   <div class="row">
-    <div class="col span_3_of_4">
+    <div class="col span_3_of_5">
       <img src="images/retina/dj-red-beard.jpg" title="DJ Red Beard Flier" alt="DJ Red Beard Flier" />
     </div>
-    <div class="col span_1_of_4">
+    <div class="col span_2_of_5">
       <h3>DJ Red Beard Flier</h3>
-      <h4>11x17&quot; Flier design</h4>
-      <h5>Created in Adobe Illustrator</h5>
+      <div class="project-type">11x17&quot; Flier design</div>
+      <p>Created in Adobe Illustrator</p>
     </div>
   </div>
 </div>
@@ -389,13 +406,13 @@
     </div>
   </div>
   <div class="row">
-    <div class="col span_3_of_4">
+    <div class="col span_3_of_5">
       <img src="images/retina/newgameplus.jpg" title="NewGame+" alt="NewGame+">
     </div>
-    <div class="col span_1_of_4">
+    <div class="col span_2_of_5">
       <h3>NewGame+</h3>
-      <h4>website design/development</h4>
-      <h5><a href="http://www.newgameplus.co" alt="NewGame+" target="blank">http://www.newgameplus.co</a></h5>
+      <div class="project-type">website design/development</div>
+      <p><a href="http://www.newgameplus.co" alt="NewGame+" target="blank">http://www.newgameplus.co</a></p>
     </div>
   </div>
 </div>
@@ -407,13 +424,13 @@
     </div>
   </div>
   <div class="row">
-    <div class="col span_3_of_4">
+    <div class="col span_3_of_5">
       <img src="images/retina/mr-history-six-recolor.jpg" title="Mr History August 24th" alt="Mr History August 24th">
     </div>
-    <div class="col span_1_of_4">
+    <div class="col span_2_of_5">
       <h3>Mr. History at Riot Room August 24th</h3>
-      <h4>11x17&quot; Flier design</h4>
-      <h5>Created in Adobe Illustrator</h4>
+      <div class="project-type">11x17&quot; Flier design</div>
+      <p>Created in Adobe Illustrator</p>
     </div>
   </div>
 </div>
@@ -425,13 +442,13 @@
     </div>
   </div>
   <div class="row">
-    <div class="col span_3_of_4">
+    <div class="col span_3_of_5">
       <img src="images/retina/mr-history-one.jpg" title="Mr History Crosstown Flier" alt="Mr History Crosstown Flier" />
     </div>
-    <div class="col span_1_of_4">
+    <div class="col span_2_of_5">
       <h3>Mr History at Crosstown Station</h3>
-      <h4>11x17&quot; Flier design</h4>
-      <h5>Created in Adobe Illustrator</h5>
+      <div class="project-type">11x17&quot; Flier design</div>
+      <p>Created in Adobe Illustrator</p>
     </div>
   </div>
 </div>
@@ -443,13 +460,13 @@
     </div>
   </div>
   <div class="row">
-    <div class="col span_3_of_4">
+    <div class="col span_3_of_5">
       <img src="images/retina/mr-history-five.jpg" title="Mr History at Davies Uptown" alt="Mr History at Davies Uptown" />
     </div>
-    <div class="col span_1_of_4">
+    <div class="col span_2_of_5">
       <h3>Mr History at Davies Uptown</h3>
-      <h4>11x17&quot; Flier design</h4>
-      <h5>Created in Adobe Illustrator</h5>
+      <div class="project-type">11x17&quot; Flier design</div>
+      <p>Created in Adobe Illustrator</p>
     </div>
   </div>
 </div>
@@ -461,13 +478,13 @@
     </div>
   </div>
   <div class="row">
-    <div class="col span_3_of_4">
+    <div class="col span_3_of_5">
       <img src="images/retina/mr-history-gene-final.jpg" title="Mr Hisotry Gene Albume Art" alt="Mr Hisotry Gene Albume Art" />
     </div>
-    <div class="col span_1_of_4">
+    <div class="col span_2_of_5">
       <h3>Mr History "Gene" Album Artwork</h3>
-      <h4>Album cover illustration</h4>
-      <h5>Created in Adobe Illustrator</h5>
+      <div class="project-type">Album cover illustration</div>
+      <p>Created in Adobe Illustrator</p>
     </div>
   </div>
 </div>
@@ -479,13 +496,13 @@
     </div>
   </div>
   <div class="row">
-    <div class="col span_3_of_4">
+    <div class="col span_3_of_5">
       <img src="images/retina/grains-of-discovery.jpg" title="Grains of Discovery" alt="Grains of Discovery">
     </div>
-    <div class="col span_1_of_4">
+    <div class="col span_2_of_5">
       <h3>Grains of Discovery</h3>
-      <h4>website design & development</h4>
-      <h5>HTML, CSS, JavaScript, jQuery</h5>
+      <div class="project-type">website design & development</div>
+      <p>HTML, CSS, JavaScript, jQuery</p>
     </div>
   </div>
 </div>
@@ -497,13 +514,13 @@
     </div>
   </div>
   <div class="row">
-    <div class="col span_3_of_4">
+    <div class="col span_3_of_5">
       <img src="images/retina/mr-history-four-recolor.jpg" title="Mr. History at the Riot Room" alt="Mr. History at the Riot Room" />
     </div>
-    <div class="col span_1_of_4">
+    <div class="col span_2_of_5">
       <h3>Mr. History at the Riot Room</h3>
-      <h4>Flier Design</h4>
-      <h5>Created in Adobe Illustrator</h5>
+      <div class="project-type">Flier Design</div>
+      <p>Created in Adobe Illustrator</p>
     </div>
   </div>
 </div>
