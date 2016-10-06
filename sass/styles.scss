@@ -64,6 +64,14 @@ body {
   margin: 0px;
 }
 
+.row {
+  width: 100%;
+  max-width: 1080px;
+  box-sizing: border-box;
+  padding: 0 20px;
+  margin: 0 auto;
+}
+
 // column setup
 .col {
   display: block;
@@ -2334,3 +2342,37 @@ only screen and (min-device-pixel-ratio: 2) {
 .fr-window-IE6 .fr-position .fr-position-background { display: none; }
 
 .fr-touch-caption { display: none !important; }
+
+
+// Gallery Styles
+.piece-overlay {
+  position : fixed;
+  top : 0;
+  left : 0;
+  width : 100%;
+  height : 100%;
+  background : #FFFFFF;
+  z-index : 5;
+  display : none;
+  overflow-y : scroll;
+  -webkit-animation: fadein 2s; /* Safari, Chrome and Opera > 12.1 */
+     -moz-animation: fadein 2s; /* Firefox < 16 */
+      -ms-animation: fadein 2s; /* Internet Explorer */
+       -o-animation: fadein 2s; /* Opera < 12.1 */
+          animation: fadein 2s;
+  img {
+    width: 100%;
+  }
+  button {
+    float: right;
+    margin-top: 10px;
+    border: 0;
+    color: $teal;
+    background-color: $white;
+    text-transform: uppercase;
+    font-size: 1.5rem;
+    &:hover {
+      color: $pink;
+    }
+  }
+}
