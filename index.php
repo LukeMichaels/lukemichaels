@@ -7,10 +7,14 @@
   <div class="col span_1_of_2">
 
     <article class="piece-wrapper">
+      <a id="cca-button">
+        <img src="images/cca/Get-Involved.png" title="CCA JoyRX" alt="CCA JoyRX">
+      </a>
+    </article>
+
+    <article class="piece-wrapper">
       <a id="rogue-button">
         <img src="images/retina/rogue-landing-page.jpg" title="Rogue Home Page" alt="Rogue Home Page">
-        <br /><br />
-        <img src="images/retina/rogue-beer-page.jpg" title="Rogue Beer Page" alt="Rogue Beer Page">
       </a>
     </article>
 
@@ -40,6 +44,18 @@
         <img src="images/retina/gluten-free-muesli-marquee.jpg" title="Gluten Free Muesli Marquee" alt="Gluten Free Muesli Marquee">
         <br /><br />
         <img src="images/retina/holiday-marquee.jpg" title="Holiday Marquee" alt="Holiday Marquee">
+      </a>
+    </article>
+
+    <article class="piece-wrapper">
+      <a id="progressive-button">
+        <img src="images/progressive/Home.png" title="Progressive" alt="Progressive">
+      </a>
+    </article>
+
+    <article class="piece-wrapper">
+      <a id="mr-history-gene-button">
+        <img src="images/retina/mr-history-gene-final.jpg" title="Mr Hisotry Gene Albume Art" alt="Mr Hisotry Gene Albume Art" />
       </a>
     </article>
 
@@ -76,6 +92,18 @@
   </div><!-- .col span_1_of_2 -->
 
   <div class="col span_1_of_2">
+
+    <article class="piece-wrapper">
+      <a id="kog-button">            
+        <img src="images/kog/Home-kog.png" title="Keep Oregon Green" alt="Keep Oregon Green">
+      </a>
+    </article>
+
+    <article class="piece-wrapper">
+      <a id="lamarzocco-button">            
+        <img src="images/lamarzocco/Home.png" title="LaMarzocco" alt="LaMarzocco">
+      </a>
+    </article>
 
     <article class="piece-wrapper">
       <a id="eits-button">            
@@ -115,6 +143,12 @@
       </a>
      </article>
 
+    <article class="piece-wrapper">
+      <a id="supercrown-button">
+        <img src="images/supercrown/Home.png" title="Supercrown" alt="Supercrown" />
+      </a>
+     </article>
+
      <article class="piece-wrapper">
       <a id="newgameplus-button">
         <img src="images/retina/newgameplus.jpg" title="NewGame+" alt="NewGame+">
@@ -124,12 +158,6 @@
     <article class="piece-wrapper">
       <a id="mr-history-one-button">
         <img src="images/retina/mr-history-one.jpg" title="Mr History Crosstown Flier" alt="Mr History Crosstown Flier" />
-      </a>
-    </article>
-
-    <article class="piece-wrapper">
-      <a id="mr-history-gene-button">
-        <img src="images/retina/mr-history-gene-final.jpg" title="Mr Hisotry Gene Albume Art" alt="Mr Hisotry Gene Albume Art" />
       </a>
     </article>
 
@@ -521,6 +549,112 @@
       <h3>Mr. History at the Riot Room</h3>
       <div class="project-type">Flier Design</div>
       <p>Created in Adobe Illustrator</p>
+    </div>
+  </div>
+</div>
+
+<div class="piece-overlay" id="cca-overlay">
+  <div class="overlay-header">
+    <div class="row">
+      <button id="cca-close-button">X</button>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col span_3_of_5">
+      <img src="images/cca/Get-Involved.png" title="CCA JoyRX" alt="CCA JoyRX">
+      <br><br>
+      <img src="images/cca/Programs-MyMusicRX.png" title="CCA JoyRX" alt="CCA JoyRX">
+    </div>
+    <div class="col span_2_of_5">
+      <h3>Children's Cancer Association - JoyRX</h3>
+      <div class="project-type">Website Development</div>
+      <p>
+        I was super fortunate to build the new website for JoyRX. Something extra special about the way this site was built is that everything is modular. Using the WordPress CMS the CCA can customize both the layout and the content of each page.
+      </p>
+      <p>Created in WordPress, HTML, CSS, PHP, JavaScript</p>
+    </div>
+  </div>
+</div>
+
+<div class="piece-overlay" id="kog-overlay">
+  <div class="overlay-header">
+    <div class="row">
+      <button id="kog-close-button">X</button>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col span_3_of_5">
+      <img src="images/kog/Home-kog.png" title="Keep Oregon Green" alt="Keep Oregon Green">
+      <br><br>
+      <img src="images/kog/Contribute-kog.png" title="Keep Oregon Green" alt="Keep Oregon Green">
+      <br><br>
+      <img src="images/kog/On-The-Job-kog.png" title="Keep Oregon Green" alt="Keep Oregon Green">
+    </div>
+    <div class="col span_2_of_5">
+      <h3>Keep Oregon Green</h3>
+      <div class="project-type">Website Development</div>
+      <p>Created in WordPress, HTML, CSS, PHP, JavaScript</p>
+    </div>
+  </div>
+</div>
+
+
+<div class="piece-overlay" id="lamarzocco-overlay">
+  <div class="overlay-header">
+    <div class="row">
+      <button id="lamarzocco-close-button">X</button>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col span_3_of_5">
+      <img src="images/lamarzocco/Home.png" title="LaMarzocco" alt="LaMarzocco">
+      <br><br>
+      <img src="images/lamarzocco/Office-Coffee.png" title="LaMarzocco" alt="LaMarzocco">
+    </div>
+    <div class="col span_2_of_5">
+      <h3>LaMarzocco Home Website</h3>
+      <div class="project-type">Website Development</div>
+      <p>Created in WordPress, HTML, CSS, PHP, JavaScript</p>
+    </div>
+  </div>
+</div>
+
+<div class="piece-overlay" id="progressive-overlay">
+  <div class="overlay-header">
+    <div class="row">
+      <button id="progressive-close-button">X</button>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col span_3_of_5">
+      <img src="images/progressive/Home.png" title="Progressive" alt="Progressive">
+      <br><br>
+      <img src="images/progressive/Doors.png" title="Progressive" alt="Progressive">
+    </div>
+    <div class="col span_2_of_5">
+      <h3>Progressive Doors & Windows Website</h3>
+      <div class="project-type">Website Development</div>
+      <p>Created in WordPress, HTML, CSS, PHP, JavaScript</p>
+    </div>
+  </div>
+</div>
+
+<div class="piece-overlay" id="supercrown-overlay">
+  <div class="overlay-header">
+    <div class="row">
+      <button id="supercrown-close-button">X</button>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col span_3_of_5">
+      <img src="images/supercrown/Home.png" title="Supercrown" alt="Supercrown" />
+      <br><br>
+      <img src="images/supercrown/Journal-Coffee-Entry.png" title="Supercrown" alt="Supercrown" />
+    </div>
+    <div class="col span_2_of_5">
+      <h3>Supercrown Website</h3>
+      <div class="project-type">Website Development</div>
+      <p>Created in WordPress, Woocommerce, HTML, CSS, PHP, JavaScript</p>
     </div>
   </div>
 </div>
