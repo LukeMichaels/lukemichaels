@@ -6,86 +6,88 @@
 
   <div class="col span_1_of_2">
 
-    <article class="piece-wrapper">
+    <article class="piece-wrapper" data-aos="fade-up">
       <a id="cca-button">
-        <img src="images/cca/Get-Involved.png" title="CCA JoyRX" alt="CCA JoyRX">
+        <img src="assets/images/cca/Get-Involved.png" title="CCA JoyRX" alt="CCA JoyRX">
       </a>
     </article>
 
-    <article class="piece-wrapper">
+    <article class="piece-wrapper" data-aos="fade-up">
       <a id="rogue-button">
-        <img src="images/retina/rogue-landing-page.jpg" title="Rogue Home Page" alt="Rogue Home Page">
+        <img src="assets/images/retina/rogue-landing-page.jpg" title="Rogue Home Page" alt="Rogue Home Page">
       </a>
     </article>
 
     <article class="piece-wrapper">
       <a id="bobs-blog-button">
-        <img src="images/retina/bobs-blog.jpg" title="Bob's Red Mill Blog" alt="Bob's Red Mill Blog">
+        <img src="assets/images/retina/bobs-blog.jpg" title="Bob's Red Mill Blog" alt="Bob's Red Mill Blog">
       </a>
     </article>
 
     <article class="piece-wrapper">
       <a id="bobs-button">
-        <img src="images/retina/bobs-red-mill.jpg" title="Bob's Red Mill" alt="Bob's Red Mill">
+        <img src="assets/images/retina/bobs-red-mill.jpg" title="Bob's Red Mill" alt="Bob's Red Mill">
       </a>
     </article>
 
     <article class="piece-wrapper">
       <a id="bobs-marquees-button">
-        <img src="images/retina/grains-of-discovery-marquee.jpg" title="Grains of Discovery Marquee" alt="Grains of Discovery Marquee">
+        <img src="assets/images/retina/grains-of-discovery-marquee.jpg" title="Grains of Discovery Marquee" alt="Grains of Discovery Marquee">
         <br /><br />
-        <img src="images/retina/pie-crust-marquee.jpg" title="Gluten Free Pie Crust Mix Marquee" alt="Gluten Free Pie Crust Mix Marquee">
+        <img src="assets/images/retina/pie-crust-marquee.jpg" title="Gluten Free Pie Crust Mix Marquee" alt="Gluten Free Pie Crust Mix Marquee">
         <br /><br />
-        <img src="images/retina/oatmeal-marquee.jpg" title="World's Best Oatmeal Marquee" alt="World's Best Oatmeal Marquee">
+        <img src="assets/images/retina/oatmeal-marquee.jpg" title="World's Best Oatmeal Marquee" alt="World's Best Oatmeal Marquee">
         <br /><br />
-        <!-- <img src="images/retina/Power-Up-With-Chia-Seed.jpg" title="Chia Seed Marquee" alt="Chia Seed Marquee"><br /><br /> -->
-        <img src="images/retina/coconut-flour-marquee.jpg" title="Coconut Flour" alt="Coconut Flour Marquee">
+        <!-- <img src="assets/images/retina/Power-Up-With-Chia-Seed.jpg" title="Chia Seed Marquee" alt="Chia Seed Marquee"><br /><br /> -->
+        <img src="assets/images/retina/coconut-flour-marquee.jpg" title="Coconut Flour" alt="Coconut Flour Marquee">
         <br /><br />
-        <img src="images/retina/gluten-free-muesli-marquee.jpg" title="Gluten Free Muesli Marquee" alt="Gluten Free Muesli Marquee">
+        <img src="assets/images/retina/gluten-free-muesli-marquee.jpg" title="Gluten Free Muesli Marquee" alt="Gluten Free Muesli Marquee">
         <br /><br />
-        <img src="images/retina/holiday-marquee.jpg" title="Holiday Marquee" alt="Holiday Marquee">
+        <img src="assets/images/retina/holiday-marquee.jpg" title="Holiday Marquee" alt="Holiday Marquee">
       </a>
     </article>
 
     <article class="piece-wrapper">
       <a id="progressive-button">
-        <img src="images/progressive/Home.png" title="Progressive" alt="Progressive">
+        <img src="assets/images/progressive/Home.png" title="Progressive" alt="Progressive">
       </a>
     </article>
 
     <article class="piece-wrapper">
       <a id="mr-history-gene-button">
-        <img src="images/retina/mr-history-gene-final.jpg" title="Mr Hisotry Gene Albume Art" alt="Mr Hisotry Gene Albume Art" />
+        <img src="assets/images/retina/mr-history-gene-final.jpg" title="Mr Hisotry Gene Albume Art" alt="Mr Hisotry Gene Albume Art" />
       </a>
     </article>
 
+<!--
     <article class="piece-wrapper">
       <a id="portland-marathon-button">
-        <img src="images/retina/portland-marathon.jpg" title="Portland Marathon" alt="Portland Marathon">
+        <img src="assets/images/retina/portland-marathon.jpg" title="Portland Marathon" alt="Portland Marathon">
       </a>
     </article>
+-->
 
     <article class="piece-wrapper">
       <a id="radiohead-button">
-        <img src="images/retina/radiohead.jpg" title="Radiohead Flier" alt="Radiohead Flier"/>
+        <img src="assets/images/retina/radiohead.jpg" title="Radiohead Flier" alt="Radiohead Flier"/>
       </a>
     </article>
 
     <article class="piece-wrapper">
       <a id="mr-history-six-button">  
-        <img src="images/retina/mr-history-six-recolor.jpg" title="Mr History August 24th" alt="Mr History August 24th">
+        <img src="assets/images/retina/mr-history-six-recolor.jpg" title="Mr History August 24th" alt="Mr History August 24th">
       </a>
     </article>
 
     <article class="piece-wrapper">
       <a id="mr-history-five-button">
-        <img src="images/retina/mr-history-five.jpg" title="Mr History at Davies Uptown" alt="Mr History at Davies Uptown" />
+        <img src="assets/images/retina/mr-history-five.jpg" title="Mr History at Davies Uptown" alt="Mr History at Davies Uptown" />
       </a>
     </article>
 
     <article class="piece-wrapper">
       <a id="grains-of-discovery-button">
-        <img src="images/retina/grains-of-discovery.jpg" title="Grains of Discovery" alt="Grains of Discovery">
+        <img src="assets/images/retina/grains-of-discovery.jpg" title="Grains of Discovery" alt="Grains of Discovery">
       </a>
     </article>
 
@@ -95,75 +97,77 @@
 
     <article class="piece-wrapper">
       <a id="kog-button">            
-        <img src="images/kog/Home-kog.png" title="Keep Oregon Green" alt="Keep Oregon Green">
+        <img src="assets/images/kog/Home-kog.png" title="Keep Oregon Green" alt="Keep Oregon Green">
       </a>
     </article>
 
     <article class="piece-wrapper">
       <a id="lamarzocco-button">            
-        <img src="images/lamarzocco/Home.png" title="LaMarzocco" alt="LaMarzocco">
+        <img src="assets/images/lamarzocco/Home.png" title="LaMarzocco" alt="LaMarzocco">
       </a>
     </article>
 
     <article class="piece-wrapper">
       <a id="eits-button">            
-        <img src="images/retina/explosions-in-the-sky.jpg" title="Explosions in the Sky Flier" alt="Explosions in the Sky Flier">
+        <img src="assets/images/retina/explosions-in-the-sky.jpg" title="Explosions in the Sky Flier" alt="Explosions in the Sky Flier">
       </a>
     </article>
 
     <article class="piece-wrapper">
       <a id="fairbanks-mr-history-button">
-        <img src="images/retina/fairbanks-mr-history.jpg" title="Mr History Fairbanks Flier" alt="Mr History Fairbanks Flier">
+        <img src="assets/images/retina/fairbanks-mr-history.jpg" title="Mr History Fairbanks Flier" alt="Mr History Fairbanks Flier">
       </a>
     </article>
 
     <article class="piece-wrapper">
       <a id="mr-history-cousin-sleep-cousin-death-button">
-        <img src="images/retina/mr-history-cousin-sleep-cousin-death.jpg" title="Mr History Cousin Sleep Cousin Death Album Artwork" alt="Mr History Cousin Sleep Cousin Death Album Artwork" />
+        <img src="assets/images/retina/mr-history-cousin-sleep-cousin-death.jpg" title="Mr History Cousin Sleep Cousin Death Album Artwork" alt="Mr History Cousin Sleep Cousin Death Album Artwork" />
       </a>
     </article>
 
     <article class="piece-wrapper">
       <a id="good-foot-stock-button">
-        <img src="images/retina/good-foot-stock-one.jpg" title="Good Foot Stock Flier" alt="Good Foot Stock Flier">
+        <img src="assets/images/retina/good-foot-stock-one.jpg" title="Good Foot Stock Flier" alt="Good Foot Stock Flier">
         <br /><br />
-        <img src="images/retina/good-foot-stock-two.jpg" title="Good Foot Stock Flier" alt="Good Foot Stock Flier">
+        <img src="assets/images/retina/good-foot-stock-two.jpg" title="Good Foot Stock Flier" alt="Good Foot Stock Flier">
       </a>
     </article>
 
     <article class="piece-wrapper">
       <a id="cobra-skulls-bent-left-button">
-        <img src="images/retina/cobra-skulls-bent-left.jpg" title="Cobra Skulls Flier" alt="Cobra Skulls Flier" />
+        <img src="assets/images/retina/cobra-skulls-bent-left.jpg" title="Cobra Skulls Flier" alt="Cobra Skulls Flier" />
       </a>
      </article>
 
     <article class="piece-wrapper">
       <a id="dj-red-beard-button">
-        <img src="images/retina/dj-red-beard.jpg" title="DJ Red Beard Flier" alt="DJ Red Beard Flier" />
+        <img src="assets/images/retina/dj-red-beard.jpg" title="DJ Red Beard Flier" alt="DJ Red Beard Flier" />
       </a>
      </article>
 
     <article class="piece-wrapper">
       <a id="supercrown-button">
-        <img src="images/supercrown/Home.png" title="Supercrown" alt="Supercrown" />
+        <img src="assets/images/supercrown/Home.png" title="Supercrown" alt="Supercrown" />
       </a>
      </article>
 
-     <article class="piece-wrapper">
+<!--
+    <article class="piece-wrapper">
       <a id="newgameplus-button">
-        <img src="images/retina/newgameplus.jpg" title="NewGame+" alt="NewGame+">
+        <img src="assets/images/retina/newgameplus.jpg" title="NewGame+" alt="NewGame+">
       </a>
     </article>
+-->
 
     <article class="piece-wrapper">
       <a id="mr-history-one-button">
-        <img src="images/retina/mr-history-one.jpg" title="Mr History Crosstown Flier" alt="Mr History Crosstown Flier" />
+        <img src="assets/images/retina/mr-history-one.jpg" title="Mr History Crosstown Flier" alt="Mr History Crosstown Flier" />
       </a>
     </article>
 
     <article class="piece-wrapper">
       <a id="mr-history-four-button">
-        <img src="images/retina/mr-history-four-recolor.jpg" title="Mr. History at the Riot Room" alt="Mr. History at the Riot Room" />
+        <img src="assets/images/retina/mr-history-four-recolor.jpg" title="Mr. History at the Riot Room" alt="Mr. History at the Riot Room" />
       </a>
     </article>
 
@@ -185,14 +189,14 @@
 <div class="piece-overlay" id="rogue-overlay">
   <div class="overlay-header">
     <div class="row">
-      <button id="rogue-close-button">X</button>
+      <span class="escape-message">Press ESC or click</span> <button id="rogue-close-button">X</button>
     </div>
   </div>
   <div class="overlay-body">
     <div class="row">
       <div class="col span_3_of_5">
-        <img src="images/retina/rogue-landing-page.jpg" title="Rogue Home Page" alt="Rogue Home Page"><br>
-        <img src="images/retina/rogue-beer-page.jpg" title="Rogue Beer Page" alt="Rogue Beer Page">
+        <img src="assets/images/retina/rogue-landing-page.jpg" title="Rogue Home Page" alt="Rogue Home Page"><br>
+        <img src="assets/images/retina/rogue-beer-page.jpg" title="Rogue Beer Page" alt="Rogue Beer Page">
       </div>
       <div class="col span_2_of_5">
         <h3>Rogue Design Composition</h3>
@@ -215,12 +219,12 @@
 <div class="piece-overlay" id="bobs-blog-overlay">
   <div class="overlay-header">
     <div class="row">
-      <button id="bobs-blog-close-button">X</button>
+      <span class="escape-message">Press ESC or click</span> <button id="bobs-blog-close-button">X</button>
     </div>
   </div>
   <div class="row">
     <div class="col span_3_of_5">
-      <img src="images/retina/bobs-blog.jpg" title="Bob's Red Mill Blog" alt="Bob's Red Mill Blog">
+      <img src="assets/images/retina/bobs-blog.jpg" title="Bob's Red Mill Blog" alt="Bob's Red Mill Blog">
     </div>
     <div class="col span_2_of_5">
       <h3>Bob's Red Mill Blog</h3>
@@ -240,12 +244,12 @@
 <div class="piece-overlay" id="bobs-overlay">
   <div class="overlay-header">
     <div class="row">
-      <button id="bobs-close-button">X</button>
+      <span class="escape-message">Press ESC or click</span> <button id="bobs-close-button">X</button>
     </div>
   </div>
   <div class="row">
     <div class="col span_3_of_5">
-      <img src="images/retina/bobs-red-mill.jpg" title="Bob's Red Mill" alt="Bob's Red Mill">
+      <img src="assets/images/retina/bobs-red-mill.jpg" title="Bob's Red Mill" alt="Bob's Red Mill">
     </div>
     <div class="col span_2_of_5">
       <h3>Bob's Red Mill</h3>
@@ -257,19 +261,19 @@
 <div class="piece-overlay" id="bobs-marquees-overlay">
   <div class="overlay-header">
     <div class="row">
-      <button id="bobs-marquees-close-button">X</button>
+      <span class="escape-message">Press ESC or click</span> <button id="bobs-marquees-close-button">X</button>
     </div>
   </div>
   <div class="row">
     <div class="col span_1_of_2">
-      <img src="images/retina/grains-of-discovery-marquee.jpg" title="Grains of Discovery Marquee" alt="Grains of Discovery Marquee">
-      <img src="images/retina/pie-crust-marquee.jpg" title="Gluten Free Pie Crust Mix Marquee" alt="Gluten Free Pie Crust Mix Marquee">
-      <img src="images/retina/oatmeal-marquee.jpg" title="World's Best Oatmeal Marquee" alt="World's Best Oatmeal Marquee">
+      <img src="assets/images/retina/grains-of-discovery-marquee.jpg" title="Grains of Discovery Marquee" alt="Grains of Discovery Marquee">
+      <img src="assets/images/retina/pie-crust-marquee.jpg" title="Gluten Free Pie Crust Mix Marquee" alt="Gluten Free Pie Crust Mix Marquee">
+      <img src="assets/images/retina/oatmeal-marquee.jpg" title="World's Best Oatmeal Marquee" alt="World's Best Oatmeal Marquee">
     </div>
     <div class="col span_1_of_2">
-      <img src="images/retina/coconut-flour-marquee.jpg" title="Coconut Flour" alt="Coconut Flour Marquee">
-      <img src="images/retina/gluten-free-muesli-marquee.jpg" title="Gluten Free Muesli Marquee" alt="Gluten Free Muesli Marquee">
-      <img src="images/retina/holiday-marquee.jpg" title="Holiday Marquee" alt="Holiday Marquee">
+      <img src="assets/images/retina/coconut-flour-marquee.jpg" title="Coconut Flour" alt="Coconut Flour Marquee">
+      <img src="assets/images/retina/gluten-free-muesli-marquee.jpg" title="Gluten Free Muesli Marquee" alt="Gluten Free Muesli Marquee">
+      <img src="assets/images/retina/holiday-marquee.jpg" title="Holiday Marquee" alt="Holiday Marquee">
     </div>
     <div class="col span_3_of_5">
     </div>
@@ -281,15 +285,16 @@
   </div>
 </div>
 
+<!--
 <div class="piece-overlay" id="portland-marathon-overlay">
   <div class="overlay-header">
     <div class="row">
-      <button id="portland-marathon-close-button">X</button>
+      <span class="escape-message">Press ESC or click</span> <button id="portland-marathon-close-button">X</button>
     </div>
   </div>
   <div class="row">
     <div class="col span_3_of_5">
-      <img src="images/retina/portland-marathon.jpg" title="Portland Marathon" alt="Portland Marathon">
+      <img src="assets/images/retina/portland-marathon.jpg" title="Portland Marathon" alt="Portland Marathon">
     </div>
     <div class="col span_2_of_5">
       <h3>Portland Marathon Design Composition</h3>
@@ -298,16 +303,17 @@
     </div>
   </div>
 </div>
+-->
 
 <div class="piece-overlay" id="radiohead-overlay">
   <div class="overlay-header">
     <div class="row">
-      <button id="radiohead-close-button">X</button>
+      <span class="escape-message">Press ESC or click</span> <button id="radiohead-close-button">X</button>
     </div>
   </div>
   <div class="row">
     <div class="col span_3_of_5">
-      <img src="images/retina/radiohead.jpg" title="Radiohead Flier" alt="Radiohead Flier"/>
+      <img src="assets/images/retina/radiohead.jpg" title="Radiohead Flier" alt="Radiohead Flier"/>
     </div>
     <div class="col span_2_of_5">
       <h3>Radiohead Flier</h3>
@@ -320,12 +326,12 @@
 <div class="piece-overlay" id="eits-overlay">
   <div class="overlay-header">
     <div class="row">
-      <button id="eits-close-button">X</button>
+      <span class="escape-message">Press ESC or click</span> <button id="eits-close-button">X</button>
     </div>
   </div>
   <div class="row">
     <div class="col span_3_of_5">
-      <img src="images/retina/explosions-in-the-sky.jpg" title="Explosions in the Sky Flier" alt="Explosions in the Sky Flier">
+      <img src="assets/images/retina/explosions-in-the-sky.jpg" title="Explosions in the Sky Flier" alt="Explosions in the Sky Flier">
     </div>
     <div class="col span_2_of_5">
       <h3>Explosions In The Sky at The Granada</h3>
@@ -338,12 +344,12 @@
 <div class="piece-overlay" id="fairbanks-mr-history-overlay">
   <div class="overlay-header">
     <div class="row">
-      <button id="fairbanks-mr-history-close-button">X</button>
+      <span class="escape-message">Press ESC or click</span> <button id="fairbanks-mr-history-close-button">X</button>
     </div>
   </div>
   <div class="row">
     <div class="col span_3_of_5">
-      <img src="images/retina/fairbanks-mr-history.jpg" title="Mr History Fairbanks Flier" alt="Mr History Fairbanks Flier">
+      <img src="assets/images/retina/fairbanks-mr-history.jpg" title="Mr History Fairbanks Flier" alt="Mr History Fairbanks Flier">
     </div>
     <div class="col span_2_of_5">
       <h3>Fairbanks With Mr. History at Record Bar</h3>
@@ -356,12 +362,12 @@
 <div class="piece-overlay" id="mr-history-cousin-sleep-cousin-death-overlay">
   <div class="overlay-header">
     <div class="row">
-      <button id="mr-history-cousin-sleep-cousin-death-close-button">X</button>
+      <span class="escape-message">Press ESC or click</span> <button id="mr-history-cousin-sleep-cousin-death-close-button">X</button>
     </div>
   </div>
   <div class="row">
     <div class="col span_3_of_5">
-      <img src="images/retina/mr-history-cousin-sleep-cousin-death.jpg" title="Mr History Cousin Sleep Cousin Death Album Artwork" alt="Mr History Cousin Sleep Cousin Death Album Artwork" />
+      <img src="assets/images/retina/mr-history-cousin-sleep-cousin-death.jpg" title="Mr History Cousin Sleep Cousin Death Album Artwork" alt="Mr History Cousin Sleep Cousin Death Album Artwork" />
     </div>
     <div class="col span_2_of_5">
       <h3>Mr. History "Cousin Sleep Cousin Death" Album Artwork</h3>
@@ -374,14 +380,14 @@
 <div class="piece-overlay" id="good-foot-stock-overlay">
   <div class="overlay-header">
     <div class="row">
-      <button id="good-foot-stock-close-button">X</button>
+      <span class="escape-message">Press ESC or click</span> <button id="good-foot-stock-close-button">X</button>
     </div>
   </div>
   <div class="row">
     <div class="col span_3_of_5">
-      <img src="images/retina/good-foot-stock-one.jpg" title="Good Foot Stock Flier" alt="Good Foot Stock Flier">
+      <img src="assets/images/retina/good-foot-stock-one.jpg" title="Good Foot Stock Flier" alt="Good Foot Stock Flier">
       <br><br>
-      <img src="images/retina/good-foot-stock-two.jpg" title="Good Foot Stock Flier" alt="Good Foot Stock Flier">
+      <img src="assets/images/retina/good-foot-stock-two.jpg" title="Good Foot Stock Flier" alt="Good Foot Stock Flier">
     </div>
     <div class="col span_2_of_5">
       <h3>Good Foot Stock Fliers</h3>
@@ -394,12 +400,12 @@
 <div class="piece-overlay" id="cobra-skulls-bent-left-overlay">
   <div class="overlay-header">
     <div class="row">
-      <button id="cobra-skulls-bent-left-close-button">X</button>
+      <span class="escape-message">Press ESC or click</span> <button id="cobra-skulls-bent-left-close-button">X</button>
     </div>
   </div>
   <div class="row">
     <div class="col span_3_of_5">
-      <img src="images/retina/cobra-skulls-bent-left.jpg" title="Cobra Skulls Flier" alt="Cobra Skulls Flier" />
+      <img src="assets/images/retina/cobra-skulls-bent-left.jpg" title="Cobra Skulls Flier" alt="Cobra Skulls Flier" />
     </div>
     <div class="col span_2_of_5">
       <h3>Cobra Skulls W/ Bent Left Flier</h3>
@@ -412,12 +418,12 @@
 <div class="piece-overlay" id="dj-red-beard-overlay">
   <div class="overlay-header">
     <div class="row">
-      <button id="dj-red-beard-close-button">X</button>
+      <span class="escape-message">Press ESC or click</span> <button id="dj-red-beard-close-button">X</button>
     </div>
   </div>
   <div class="row">
     <div class="col span_3_of_5">
-      <img src="images/retina/dj-red-beard.jpg" title="DJ Red Beard Flier" alt="DJ Red Beard Flier" />
+      <img src="assets/images/retina/dj-red-beard.jpg" title="DJ Red Beard Flier" alt="DJ Red Beard Flier" />
     </div>
     <div class="col span_2_of_5">
       <h3>DJ Red Beard Flier</h3>
@@ -427,15 +433,16 @@
   </div>
 </div>
 
+<!--
 <div class="piece-overlay" id="newgameplus-overlay">
   <div class="overlay-header">
     <div class="row">
-      <button id="newgameplus-close-button">X</button>
+      <span class="escape-message">Press ESC or click</span> <button id="newgameplus-close-button">X</button>
     </div>
   </div>
   <div class="row">
     <div class="col span_3_of_5">
-      <img src="images/retina/newgameplus.jpg" title="NewGame+" alt="NewGame+">
+      <img src="assets/images/retina/newgameplus.jpg" title="NewGame+" alt="NewGame+">
     </div>
     <div class="col span_2_of_5">
       <h3>NewGame+</h3>
@@ -444,16 +451,17 @@
     </div>
   </div>
 </div>
+-->
 
 <div class="piece-overlay" id="mr-history-six-overlay">
   <div class="overlay-header">
     <div class="row">
-      <button id="mr-history-six-close-button">X</button>
+      <span class="escape-message">Press ESC or click</span> <button id="mr-history-six-close-button">X</button>
     </div>
   </div>
   <div class="row">
     <div class="col span_3_of_5">
-      <img src="images/retina/mr-history-six-recolor.jpg" title="Mr History August 24th" alt="Mr History August 24th">
+      <img src="assets/images/retina/mr-history-six-recolor.jpg" title="Mr History August 24th" alt="Mr History August 24th">
     </div>
     <div class="col span_2_of_5">
       <h3>Mr. History at Riot Room August 24th</h3>
@@ -466,12 +474,12 @@
 <div class="piece-overlay" id="mr-history-one-overlay">
   <div class="overlay-header">
     <div class="row">
-      <button id="mr-history-one-close-button">X</button>
+      <span class="escape-message">Press ESC or click</span> <button id="mr-history-one-close-button">X</button>
     </div>
   </div>
   <div class="row">
     <div class="col span_3_of_5">
-      <img src="images/retina/mr-history-one.jpg" title="Mr History Crosstown Flier" alt="Mr History Crosstown Flier" />
+      <img src="assets/images/retina/mr-history-one.jpg" title="Mr History Crosstown Flier" alt="Mr History Crosstown Flier" />
     </div>
     <div class="col span_2_of_5">
       <h3>Mr History at Crosstown Station</h3>
@@ -484,12 +492,12 @@
 <div class="piece-overlay" id="mr-history-five-overlay">
   <div class="overlay-header">
     <div class="row">
-      <button id="mr-history-five-close-button">X</button>
+      <span class="escape-message">Press ESC or click</span> <button id="mr-history-five-close-button">X</button>
     </div>
   </div>
   <div class="row">
     <div class="col span_3_of_5">
-      <img src="images/retina/mr-history-five.jpg" title="Mr History at Davies Uptown" alt="Mr History at Davies Uptown" />
+      <img src="assets/images/retina/mr-history-five.jpg" title="Mr History at Davies Uptown" alt="Mr History at Davies Uptown" />
     </div>
     <div class="col span_2_of_5">
       <h3>Mr History at Davies Uptown</h3>
@@ -502,12 +510,12 @@
 <div class="piece-overlay" id="mr-history-gene-overlay">
   <div class="overlay-header">
     <div class="row">
-      <button id="mr-history-gene-close-button">X</button>
+      <span class="escape-message">Press ESC or click</span> <button id="mr-history-gene-close-button">X</button>
     </div>
   </div>
   <div class="row">
     <div class="col span_3_of_5">
-      <img src="images/retina/mr-history-gene-final.jpg" title="Mr Hisotry Gene Albume Art" alt="Mr Hisotry Gene Albume Art" />
+      <img src="assets/images/retina/mr-history-gene-final.jpg" title="Mr Hisotry Gene Albume Art" alt="Mr Hisotry Gene Albume Art" />
     </div>
     <div class="col span_2_of_5">
       <h3>Mr History "Gene" Album Artwork</h3>
@@ -520,12 +528,12 @@
 <div class="piece-overlay" id="grains-of-discovery-overlay">
   <div class="overlay-header">
     <div class="row">
-      <button id="grains-of-discovery-close-button">X</button>
+      <span class="escape-message">Press ESC or click</span> <button id="grains-of-discovery-close-button">X</button>
     </div>
   </div>
   <div class="row">
     <div class="col span_3_of_5">
-      <img src="images/retina/grains-of-discovery.jpg" title="Grains of Discovery" alt="Grains of Discovery">
+      <img src="assets/images/retina/grains-of-discovery.jpg" title="Grains of Discovery" alt="Grains of Discovery">
     </div>
     <div class="col span_2_of_5">
       <h3>Grains of Discovery</h3>
@@ -538,12 +546,12 @@
 <div class="piece-overlay" id="mr-history-four-overlay">
   <div class="overlay-header">
     <div class="row">
-      <button id="mr-history-four-close-button">X</button>
+      <span class="escape-message">Press ESC or click</span> <button id="mr-history-four-close-button">X</button>
     </div>
   </div>
   <div class="row">
     <div class="col span_3_of_5">
-      <img src="images/retina/mr-history-four-recolor.jpg" title="Mr. History at the Riot Room" alt="Mr. History at the Riot Room" />
+      <img src="assets/images/retina/mr-history-four-recolor.jpg" title="Mr. History at the Riot Room" alt="Mr. History at the Riot Room" />
     </div>
     <div class="col span_2_of_5">
       <h3>Mr. History at the Riot Room</h3>
@@ -556,14 +564,14 @@
 <div class="piece-overlay" id="cca-overlay">
   <div class="overlay-header">
     <div class="row">
-      <button id="cca-close-button">X</button>
+      <span class="escape-message">Press ESC or click</span> <button id="cca-close-button">X</button>
     </div>
   </div>
   <div class="row">
     <div class="col span_3_of_5">
-      <img src="images/cca/Get-Involved.png" title="CCA JoyRX" alt="CCA JoyRX">
+      <img src="assets/images/cca/Get-Involved.png" title="CCA JoyRX" alt="CCA JoyRX">
       <br><br>
-      <img src="images/cca/Programs-MyMusicRX.png" title="CCA JoyRX" alt="CCA JoyRX">
+      <img src="assets/images/cca/Programs-MyMusicRX.png" title="CCA JoyRX" alt="CCA JoyRX">
     </div>
     <div class="col span_2_of_5">
       <h3>Children's Cancer Association - JoyRX</h3>
@@ -579,16 +587,16 @@
 <div class="piece-overlay" id="kog-overlay">
   <div class="overlay-header">
     <div class="row">
-      <button id="kog-close-button">X</button>
+      <span class="escape-message">Press ESC or click</span> <button id="kog-close-button">X</button>
     </div>
   </div>
   <div class="row">
     <div class="col span_3_of_5">
-      <img src="images/kog/Home-kog.png" title="Keep Oregon Green" alt="Keep Oregon Green">
+      <img src="assets/images/kog/Home-kog.png" title="Keep Oregon Green" alt="Keep Oregon Green">
       <br><br>
-      <img src="images/kog/Contribute-kog.png" title="Keep Oregon Green" alt="Keep Oregon Green">
+      <img src="assets/images/kog/Contribute-kog.png" title="Keep Oregon Green" alt="Keep Oregon Green">
       <br><br>
-      <img src="images/kog/On-The-Job-kog.png" title="Keep Oregon Green" alt="Keep Oregon Green">
+      <img src="assets/images/kog/On-The-Job-kog.png" title="Keep Oregon Green" alt="Keep Oregon Green">
     </div>
     <div class="col span_2_of_5">
       <h3>Keep Oregon Green</h3>
@@ -602,14 +610,14 @@
 <div class="piece-overlay" id="lamarzocco-overlay">
   <div class="overlay-header">
     <div class="row">
-      <button id="lamarzocco-close-button">X</button>
+      <span class="escape-message">Press ESC or click</span> <button id="lamarzocco-close-button">X</button>
     </div>
   </div>
   <div class="row">
     <div class="col span_3_of_5">
-      <img src="images/lamarzocco/Home.png" title="LaMarzocco" alt="LaMarzocco">
+      <img src="assets/images/lamarzocco/Home.png" title="LaMarzocco" alt="LaMarzocco">
       <br><br>
-      <img src="images/lamarzocco/Office-Coffee.png" title="LaMarzocco" alt="LaMarzocco">
+      <img src="assets/images/lamarzocco/Office-Coffee.png" title="LaMarzocco" alt="LaMarzocco">
     </div>
     <div class="col span_2_of_5">
       <h3>LaMarzocco Home Website</h3>
@@ -622,14 +630,14 @@
 <div class="piece-overlay" id="progressive-overlay">
   <div class="overlay-header">
     <div class="row">
-      <button id="progressive-close-button">X</button>
+      <span class="escape-message">Press ESC or click</span> <button id="progressive-close-button">X</button>
     </div>
   </div>
   <div class="row">
     <div class="col span_3_of_5">
-      <img src="images/progressive/Home.png" title="Progressive" alt="Progressive">
+      <img src="assets/images/progressive/Home.png" title="Progressive" alt="Progressive">
       <br><br>
-      <img src="images/progressive/Doors.png" title="Progressive" alt="Progressive">
+      <img src="assets/images/progressive/Doors.png" title="Progressive" alt="Progressive">
     </div>
     <div class="col span_2_of_5">
       <h3>Progressive Doors & Windows Website</h3>
@@ -642,14 +650,14 @@
 <div class="piece-overlay" id="supercrown-overlay">
   <div class="overlay-header">
     <div class="row">
-      <button id="supercrown-close-button">X</button>
+      <span class="escape-message">Press ESC or click</span> <button id="supercrown-close-button">X</button>
     </div>
   </div>
   <div class="row">
     <div class="col span_3_of_5">
-      <img src="images/supercrown/Home.png" title="Supercrown" alt="Supercrown" />
+      <img src="assets/images/supercrown/Home.png" title="Supercrown" alt="Supercrown" />
       <br><br>
-      <img src="images/supercrown/Journal-Coffee-Entry.png" title="Supercrown" alt="Supercrown" />
+      <img src="assets/images/supercrown/Journal-Coffee-Entry.png" title="Supercrown" alt="Supercrown" />
     </div>
     <div class="col span_2_of_5">
       <h3>Supercrown Website</h3>

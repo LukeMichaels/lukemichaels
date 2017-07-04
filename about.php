@@ -14,7 +14,7 @@
         In 2005 I graduated with a computer science degree in<br />
         digital media. Since that time I've picked up a broad range<br />
         of design and development experience in several mediums<br /> 
-        including web, print, television and screen-printing.
+        including web, print, video and screen-printing.
       </p>
 
       <p>
@@ -31,31 +31,29 @@
       </p><br />
 
       <span class="AboutTitle">Skills - Primary</span><br />
-      <div style="color: #00A2A6;">
-        <span class="AboutHeading">Front-End Web Development - </span><span class="AboutDetail">HTML, CSS, Sass, JavaScript, jQuery, PHP and MySql.</span><br />  
-        <span class="AboutHeading">Graphic Design - </span><span class="AboutDetail">Digital content creation, layout, typography, user interface and user experience.</span><br />
-        <span class="AboutHeading">eCommerce - </span><span class="AboutDetail">Magento, Volusion, X-Cart, Yahoo Store.</span><br />
-        <span class="AboutHeading">Version Control - </span><span class="AboutDetail">Git, GitHub, Bitbucket.</span><br />
-        <span class="AboutHeading">Content Management - </span><span class="AboutDetail">WordPress, Ghost, Drupal, Joomla.</span><br /> 
-        <span class="AboutHeading">Print Design - </span><span class="AboutDetail">Typesetting, layout design, typography, Page DNA.</span><br />
-        <span class="AboutHeading">Email Newsletters - </span><span class="AboutDetail">MailChimp, Emma, Constant Contact.</span><br />
-        <span class="AboutHeading">Operating Systems - </span><span class="AboutDetail">Mac OS, iOS, Android, Chrome, Fedora, Windows.</span>
-      </div><br /><br />
+      <span class="AboutHeading">Front-End Web Development</span> - <span class="AboutDetail">HTML, CSS, Sass, JavaScript, jQuery, PHP and MySql.</span><br />  
+      <span class="AboutHeading">Graphic Design</span> - <span class="AboutDetail">Digital content creation, layout, typography, user interface and user experience.</span><br />
+      <span class="AboutHeading">eCommerce</span> - <span class="AboutDetail">Magento, WooCommerce, Volusion, X-Cart, Yahoo Store.</span><br />
+      <span class="AboutHeading">Version Control</span> - <span class="AboutDetail">Git, GitHub, Bitbucket.</span><br />
+      <span class="AboutHeading">Content Management</span> - <span class="AboutDetail">WordPress, Drupal, Ghost, Joomla.</span><br /> 
+      <span class="AboutHeading">Print Design</span> - <span class="AboutDetail">Typesetting, layout design, typography, Page DNA.</span><br />
+      <span class="AboutHeading">Email Newsletters</span> - <span class="AboutDetail">MailChimp, Emma, Campaign Monitor, Constant Contact.</span><br />
+      <span class="AboutHeading">Operating Systems</span> - <span class="AboutDetail">Mac OS, iOS, Android, Chrome, Fedora, Windows.</span>
+      <br /><br />
 
       <span class="AboutTitle">Skills - Secondary</span><br />
-      <span style="color: #00A2A6;">
-        <span class="AboutHeading">Motion Graphics - </span><span class="AboutDetail">After Effects, Director, Lingo, Flash, Action Script.</span><br />
-        <span class="AboutHeading">Photography - </span><span class="AboutDetail">Lightroom, image retouching and manipulation.</span><br />
-        <span class="AboutHeading">Video Editing - </span><span class="AboutDetail">Final Cut, Premiere, DVD Studio Pro.</span><br />
-        <span class="AboutHeading">3D Graphics - </span><span class="AboutDetail">3D Studio Max, Renderware Studio.</span>
-      </span><br /><br />
+      <span class="AboutHeading">Motion Graphics</span> - <span class="AboutDetail">After Effects, Director, Lingo, Flash, Action Script.</span><br />
+      <span class="AboutHeading">Photography</span> - <span class="AboutDetail">Lightroom, image retouching and manipulation.</span><br />
+      <span class="AboutHeading">Video Editing</span> - <span class="AboutDetail">Final Cut, Premiere, DVD Studio Pro.</span><br />
+      <span class="AboutHeading">3D Graphics</span> - <span class="AboutDetail">3D Studio Max, Renderware Studio.</span>
+      <br /><br />
 
       <span class="AboutTitle">Software Proficiency</span>
       <p class="AboutHeading">
-        Illustrator, Photoshop, InDesign, Coda, Grunt, Bower, Yeoman, Kaleidoscope, Dreamweaver,<br /> 
+        Illustrator, Photoshop, InDesign, Sketch, Coda, Grunt, Bower, Yeoman, Kaleidoscope, Dreamweaver,<br /> 
         FontExplorer, Pages, Numbers, Keynote, Excel, Word, PowerPoint, Emma, MailChimp,<br />
         Tower, CodeKit, Terminal, Atom.io, Viseo, MAMP, Dropbox, CodeBox, xScope, OS X, iOS,<br />
-        Flash, Premiere, Linux(Fedora), Windows... I'm a big fan of trying out new software :-)
+        Flash, Premiere, Linux(Fedora), Windows... I'm a big fan of trying out new software !
       </p><br />
 
       <span class="AboutTitle">Academic Experience</span><br />
@@ -96,7 +94,7 @@
 
     <!-- :::::::::: Sidebar :::::::::: -->
     <div class="two-columns-left">
-      <img src="/images/retina/me-2.jpg" border="0"/><br />
+      <img src="assets/images/retina/me-3-circle.png" border="0"/><br />
       <span style ="float: left; padding: 10px 0 10px 0;">
         <table border="0" cellpadding="0" cellspacing="0">
           <tr>
@@ -104,7 +102,7 @@
               <i class="fa fa-paperclip"></i>
             </td>
             <td class="about-link">
-              <a href="/Luke_Michaels_Resume_2016.pdf" alt="download my resume"> Resume</a>
+              <a href="/Luke_Michaels_Resume_2017.pdf" alt="download my resume"> Resume</a>
             </td>
           </tr>
           <tr>
@@ -163,6 +161,7 @@
               <a href="http://www.facebook.com/Luke.Michaels" title="Facebook" alt="Facebook" target="_blank">Facebook</a>
             </td> 
           </tr>
+          <!--
           <tr>
             <td class="about-icon">
               <i class="fa fa-google-plus"></i>
@@ -171,6 +170,7 @@
               <a href="https://plus.google.com/100314344713197751474/posts" title="Google Plus" alt="Google Plus" target="_blank"> Google+</a>
             </td>
           </tr>
+          -->
         </table>
       </span>
     </div><!-- .two-columns-left -->

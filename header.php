@@ -16,12 +16,8 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
   <!-- :::::::::: CSS :::::::::: -->
-  <link href="css/reset.css" rel="stylesheet">
-  <link href="css/styles.css" rel="stylesheet" media="screen">
-  <link href="css/fonts.css" rel="stylesheet">
-  <link href="css/font-awesome.min.css" rel="stylesheet">
-  <link href="css/media-queries.css" rel="stylesheet">
-  <link href="css/colorbox.css" rel="stylesheet">
+  <link href="assets/css/main.css" rel="stylesheet" media="screen">
+  <link href="assets/css/font-awesome.min.css" rel="stylesheet">
 
   <!-- ::::::::::::::: FAV ICON :::::::::::::: -->
   <link rel="icon" href="favicon.ico" type="image/ico" />
@@ -55,39 +51,3 @@
     <section class="desktop-header">
       <div class="module parallax parallax-1"></div>
     </section>
-
-    <!-- :::::::::: mobile header :::::::::: -->
-    <!--
-    <section class="mobile-header display-on-mobile">
-      <img src="./images/ui/header-1080.jpg" class="img-responsive" alt="About Gallery Services Contact" usemap="#Map"/>
-      <map name="Map">
-        <area shape="poly" coords="1151,454,1069,419,1226,226,1281,300" href="about.php" alt="">
-        <area shape="poly" coords="1235,219,1295,286,1547,179,1534,97" href="index.php">
-        <area shape="poly" coords="1550,96,1561,177,1850,226,1885,137" href="services.php">
-        <area shape="poly" coords="1860,234,1899,143,2165,373,2058,404" href="contact.php">
-      </map>
-    </section>
-    -->
-
-    <!-- :::::::::: old headers :::::::::: -->
-    <!--
-    <section class="desktop-header hide-on-mobile">
-      <img src="./images/ui/header-1080.jpg" class="img-responsive" alt="About Gallery Services Contact" usemap="#Map"/>
-      <map name="Map">
-        <area shape="poly" coords="1151,454,1069,419,1226,226,1281,300" href="about.php" alt="">
-        <area shape="poly" coords="1235,219,1295,286,1547,179,1534,97" href="index.php">
-        <area shape="poly" coords="1550,96,1561,177,1850,226,1885,137" href="services.php">
-        <area shape="poly" coords="1860,234,1899,143,2165,373,2058,404" href="contact.php">
-      </map>
-    </section>
-
-    <section class="mobile-header display-on-mobile">
-      <img src="./images/ui/header-1080.jpg" class="img-responsive" alt="About Gallery Services Contact" usemap="#Map"/>
-      <map name="Map">
-        <area shape="poly" coords="1151,454,1069,419,1226,226,1281,300" href="about.php" alt="">
-        <area shape="poly" coords="1235,219,1295,286,1547,179,1534,97" href="index.php">
-        <area shape="poly" coords="1550,96,1561,177,1850,226,1885,137" href="services.php">
-        <area shape="poly" coords="1860,234,1899,143,2165,373,2058,404" href="contact.php">
-      </map>
-    </section>
-    -->
