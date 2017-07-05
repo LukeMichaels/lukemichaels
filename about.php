@@ -5,7 +5,7 @@
 
     <!-- :::::::::: About Me :::::::::: -->
     <div class="two-columns-main">
-      <h1>Hi I'm Luke</h1>  
+      <h1>Hi, I'm Luke.</h1>  
       <p>
         I enjoy cycling, tea, post rock, programming and design.
       </p>
@@ -30,46 +30,46 @@
         create aesthetically pleasing sites with intuitive user experiences.
       </p><br />
 
-      <span class="AboutTitle">Skills - Primary</span><br />
-      <span class="AboutHeading">Front-End Web Development</span> - <span class="AboutDetail">HTML, CSS, Sass, JavaScript, jQuery, PHP and MySql.</span><br />  
-      <span class="AboutHeading">Graphic Design</span> - <span class="AboutDetail">Digital content creation, layout, typography, user interface and user experience.</span><br />
-      <span class="AboutHeading">eCommerce</span> - <span class="AboutDetail">Magento, WooCommerce, Volusion, X-Cart, Yahoo Store.</span><br />
-      <span class="AboutHeading">Version Control</span> - <span class="AboutDetail">Git, GitHub, Bitbucket.</span><br />
-      <span class="AboutHeading">Content Management</span> - <span class="AboutDetail">WordPress, Drupal, Ghost, Joomla.</span><br /> 
-      <span class="AboutHeading">Print Design</span> - <span class="AboutDetail">Typesetting, layout design, typography, Page DNA.</span><br />
-      <span class="AboutHeading">Email Newsletters</span> - <span class="AboutDetail">MailChimp, Emma, Campaign Monitor, Constant Contact.</span><br />
-      <span class="AboutHeading">Operating Systems</span> - <span class="AboutDetail">Mac OS, iOS, Android, Chrome, Fedora, Windows.</span>
+      <span class="about-title">Skills - Primary</span><br />
+      <span class="about-heading">Front-End Web Development</span> - <span class="about-detail">HTML, CSS, Sass, JavaScript, jQuery, PHP and MySql.</span><br />  
+      <span class="about-heading">Graphic Design</span> - <span class="about-detail">Digital content creation, layout, typography, user interface and user experience.</span><br />
+      <span class="about-heading">eCommerce</span> - <span class="about-detail">Magento, WooCommerce, Volusion, X-Cart, Yahoo Store.</span><br />
+      <span class="about-heading">Version Control</span> - <span class="about-detail">Git, GitHub, Bitbucket.</span><br />
+      <span class="about-heading">Content Management</span> - <span class="about-detail">WordPress, Drupal, Ghost, Joomla.</span><br /> 
+      <span class="about-heading">Print Design</span> - <span class="about-detail">Typesetting, layout design, typography, Page DNA.</span><br />
+      <span class="about-heading">Email Newsletters</span> - <span class="about-detail">MailChimp, Emma, Campaign Monitor, Constant Contact.</span><br />
+      <span class="about-heading">Operating Systems</span> - <span class="about-detail">Mac OS, iOS, Android, Chrome, Fedora, Windows.</span>
       <br /><br />
 
-      <span class="AboutTitle">Skills - Secondary</span><br />
-      <span class="AboutHeading">Motion Graphics</span> - <span class="AboutDetail">After Effects, Director, Lingo, Flash, Action Script.</span><br />
-      <span class="AboutHeading">Photography</span> - <span class="AboutDetail">Lightroom, image retouching and manipulation.</span><br />
-      <span class="AboutHeading">Video Editing</span> - <span class="AboutDetail">Final Cut, Premiere, DVD Studio Pro.</span><br />
-      <span class="AboutHeading">3D Graphics</span> - <span class="AboutDetail">3D Studio Max, Renderware Studio.</span>
+      <span class="about-title">Skills - Secondary</span><br />
+      <span class="about-heading">Motion Graphics</span> - <span class="about-detail">After Effects, Director, Lingo, Flash, Action Script.</span><br />
+      <span class="about-heading">Photography</span> - <span class="about-detail">Lightroom, image retouching and manipulation.</span><br />
+      <span class="about-heading">Video Editing</span> - <span class="about-detail">Final Cut, Premiere, DVD Studio Pro.</span><br />
+      <span class="about-heading">3D Graphics</span> - <span class="about-detail">3D Studio Max, Renderware Studio.</span>
       <br /><br />
 
-      <span class="AboutTitle">Software Proficiency</span>
-      <p class="AboutHeading">
+      <span class="about-title">Software Proficiency</span>
+      <p class="about-heading">
         Illustrator, Photoshop, InDesign, Sketch, Coda, Grunt, Bower, Yeoman, Kaleidoscope, Dreamweaver,<br /> 
         FontExplorer, Pages, Numbers, Keynote, Excel, Word, PowerPoint, Emma, MailChimp,<br />
         Tower, CodeKit, Terminal, Atom.io, Viseo, MAMP, Dropbox, CodeBox, xScope, OS X, iOS,<br />
         Flash, Premiere, Linux(Fedora), Windows... I'm a big fan of trying out new software !
       </p><br />
 
-      <span class="AboutTitle">Academic Experience</span><br />
-      <p class="AboutHeading">
+      <span class="about-title">Academic Experience</span><br />
+      <p class="about-heading">
         Computer Science Degree in Digital Media, August, 2005<br />
         Full Sail University, Orlando, FL. 32826
       </p>
 
-      <span class="AboutHeading">Advanced Web Design</span> - <span class="AboutDetail">Interface design, HTML, CSS, PHP, JavaScript, and MySql.</span><br />
-      <span class="AboutHeading">Computer Graphics</span> - <span class="AboutDetail">Graphic design, interface design, and motion graphics.</span><br />
-      <span class="AboutHeading">Digital Publishing</span> - <span class="AboutDetail">Print and layout design, typography, color theory.</span><br />
-      <span class="AboutHeading">Game Content Creation</span> - <span class="AboutDetail">Texturing, lighting and modeling in 3DMax.</span><br />
-      <span class="AboutHeading">Introduction to 3D</span> - <span class="AboutDetail">Modeling, texturing and animation in 3D Max.</span><br />
-      <span class="AboutHeading">Interactive Media Design</span> - <span class="AboutDetail">Programming with lingo and interface design.</span><br />
-      <span class="AboutHeading">Networks and Operating Systems</span> - <span class="AboutDetail">Networking and computer maintenance.</span><br />
-      <span class="AboutHeading">Digital Media Production</span> - <span class="AboutDetail">Video Editing and DVD authoring.</span><br /><br />
+      <span class="about-heading">Advanced Web Design</span> - <span class="about-detail">Interface design, HTML, CSS, PHP, JavaScript, and MySql.</span><br />
+      <span class="about-heading">Computer Graphics</span> - <span class="about-detail">Graphic design, interface design, and motion graphics.</span><br />
+      <span class="about-heading">Digital Publishing</span> - <span class="about-detail">Print and layout design, typography, color theory.</span><br />
+      <span class="about-heading">Game Content Creation</span> - <span class="about-detail">Texturing, lighting and modeling in 3DMax.</span><br />
+      <span class="about-heading">Introduction to 3D</span> - <span class="about-detail">Modeling, texturing and animation in 3D Max.</span><br />
+      <span class="about-heading">Interactive Media Design</span> - <span class="about-detail">Programming with lingo and interface design.</span><br />
+      <span class="about-heading">Networks and Operating Systems</span> - <span class="about-detail">Networking and computer maintenance.</span><br />
+      <span class="about-heading">Digital Media Production</span> - <span class="about-detail">Video Editing and DVD authoring.</span><br /><br />
 
       <p>
         The web is always evolving. The way I build sites now hardly even resembles<br /> 
@@ -77,102 +77,90 @@
         stop learning new ways to improve.
       </p><br />
 
-      <span class="AboutTitle">Favorites</span><br />
-      <span class="AboutHeading">Design Application</span> - <span class="AboutDetail">Adobe Illustrator</span><br />
-      <span class="AboutHeading">IDE</span> - <span class="AboutDetail">Coda</span><br />
-      <span class="AboutHeading">CSS Preprocessor</span> - <span class="AboutDetail">Sass</span><br />
-      <span class="AboutHeading">Film</span> - <span class="AboutDetail">The Big Lebowski</span><br />
-      <span class="AboutHeading">Micro-Brew</span> - <span class="AboutDetail">Boneyard Notorious</span><br />
-      <span class="AboutHeading">Ninja Turtle</span> - <span class="AboutDetail">Donatello</span><br />
-      <span class="AboutHeading">Novel</span> - <span class="AboutDetail">Cat's Cradle</span><br />
-      <span class="AboutHeading">Video Game</span> - <span class="AboutDetail">ICO</span><br />
-      <span class="AboutHeading">Board Game</span> - <span class="AboutDetail">Letter Tycoon</span><br />
-      <span class="AboutHeading">Band</span> - <span class="AboutDetail">Mogwai</span><br />
+      <span class="about-title">Favorites</span><br />
+      <span class="about-heading">Design Application</span> - <span class="about-detail">Adobe Illustrator</span><br />
+      <span class="about-heading">IDE</span> - <span class="about-detail">Coda</span><br />
+      <span class="about-heading">CSS Preprocessor</span> - <span class="about-detail">Sass</span><br />
+      <span class="about-heading">Novel</span> - <span class="about-detail">Cat's Cradle</span><br />
+      <span class="about-heading">Band</span> - <span class="about-detail">Mogwai</span><br />
+      <span class="about-heading">Film</span> - <span class="about-detail">The Big Lebowski</span><br />
+      <span class="about-heading">Micro-Brew</span> - <span class="about-detail">Boneyard Notorious</span><br />
+      <span class="about-heading">Ninja Turtle</span> - <span class="about-detail">Donatello</span><br />
+      <span class="about-heading">Video Game</span> - <span class="about-detail">ICO</span><br />
+      <span class="about-heading">Board Game</span> - <span class="about-detail">Letter Tycoon</span><br />
       <br /><br />
     </div><!-- .two-columns-main -->
 
 
     <!-- :::::::::: Sidebar :::::::::: -->
     <div class="two-columns-left">
-      <img src="assets/images/retina/me-3-circle.png" border="0"/><br />
-      <span style ="float: left; padding: 10px 0 10px 0;">
-        <table border="0" cellpadding="0" cellspacing="0">
-          <tr>
-            <td class="about-icon">
-              <i class="fa fa-paperclip"></i>
-            </td>
-            <td class="about-link">
-              <a href="/Luke_Michaels_Resume_2017.pdf" alt="download my resume"> Resume</a>
-            </td>
-          </tr>
-          <tr>
-            <td class="about-icon">
-              <i class="fa fa-envelope"></i>
-            </td>
-            <td class="about-link">
-              <a href="mailto:lmichaels@gmail.com" title="Email" alt="Email"> Email</a>
-            </td>
-          </tr>
-          <tr>
-            <td class="about-icon">
-              <i class="fa fa-phone"></i>
-            </td>
-            <td class="about-link">
-              <a href="tel:503.890.0222"> Phone</a>
-            </td>
-          </tr>
-          <tr>
-            <td class="about-icon">
-              <i class="fa fa-github"></i>
-            </td>
-            <td class="about-link">
-              <a href="https://github.com/LukeMichaels" title="GitHub" alt="GitHub" target="_blank"> GitHub</a>
-            </td>
-          </tr>
-          <tr>
-            <td class="about-icon">
-              <i class="fa fa-linkedin"></i>
-            </td>
-            <td class="about-link">
-              <a href="http://www.linkedin.com/in/lmichaels" title="Linkedin" alt="Linkedin" target="_blank"> Linkedin</a>
-            </td>
-          </tr>
-          <tr>
-            <td class="about-icon">
-              <i class="fa fa-twitter"></i>
-            </td>
-            <td class="about-link"> 
-              <a href="http://www.twitter.com/LukeMichaels" title="Twitter" alt="Twitter" target="_blank"> Twitter</a>
-            </td>
-          </tr>
-          <tr>
-            <td class="about-icon">
-              <i class="fa fa-instagram"></i>
-            </td>
-            <td class="about-link">
-              <a href="http://instagram.com/LukeMichaels" title="Instagram" alt="Instagram" target="_blank"> Instagram</a>
-            </td>
-          </tr>
-          <tr>
-            <td class="about-icon">
-              <i class="fa fa-facebook"></i>
-            </td>
-            <td class="about-link">
-              <a href="http://www.facebook.com/Luke.Michaels" title="Facebook" alt="Facebook" target="_blank">Facebook</a>
-            </td> 
-          </tr>
-          <!--
-          <tr>
-            <td class="about-icon">
-              <i class="fa fa-google-plus"></i>
-            </td>
-            <td class="about-link">
-              <a href="https://plus.google.com/100314344713197751474/posts" title="Google Plus" alt="Google Plus" target="_blank"> Google+</a>
-            </td>
-          </tr>
-          -->
-        </table>
-      </span>
+      <img src="assets/images/retina/me-4.png" border="0"/><br />
+      <div class="about-buttons">
+        <a href="/Luke_Michaels_Resume_2017.pdf" alt="download my resume">
+          <div class="about-icon">
+            <i class="fa fa-paperclip"></i>
+          </div>
+          <div class="about-link-title">
+            Resume
+          </div>
+        </a>
+        <a href="mailto:lmichaels@gmail.com" title="Email" alt="Email">
+          <div class="about-icon">
+            <i class="fa fa-envelope"></i>
+          </div>
+          <div class="about-link-title">
+            Email
+          </div>
+        </a>
+        <a href="tel:503.890.0222">
+          <div class="about-icon">
+            <i class="fa fa-phone"></i>
+          </div>
+          <div class="about-link-title">
+            Phone
+          </div>
+        </a>
+        <a href="https://github.com/LukeMichaels" title="GitHub" alt="GitHub" target="_blank">
+          <div class="about-icon">
+            <i class="fa fa-github"></i>
+          </div>
+          <div class="about-link-title">
+             GitHub
+          </div>
+        </a>
+        <a href="http://www.linkedin.com/in/lmichaels" title="Linkedin" alt="Linkedin" target="_blank">
+          <div class="about-icon">
+            <i class="fa fa-linkedin"></i>
+          </div>
+          <div class="about-link-title">
+            Linkedin
+          </div>
+        </a>
+        <a href="http://www.twitter.com/LukeMichaels" title="Twitter" alt="Twitter" target="_blank">
+          <div class="about-icon">
+            <i class="fa fa-twitter"></i>
+          </div>
+          <div class="about-link-title"> 
+            Twitter
+          </div>
+        </a>
+        <a href="http://instagram.com/LukeMichaels" title="Instagram" alt="Instagram" target="_blank">
+          <div class="about-icon">
+            <i class="fa fa-instagram"></i>
+          </div>
+          <div class="about-link-title">
+            Instagram
+          </div>
+        </a>
+        <a href="http://www.facebook.com/Luke.Michaels" title="Facebook" alt="Facebook" target="_blank">
+          <div class="about-icon">
+            <i class="fa fa-facebook"></i>
+          </div>
+          <div class="about-link-title">
+            Facebook
+          </div> 
+        </a>
+      </div><!-- .about-buttons -->
     </div><!-- .two-columns-left -->
 
   </section>

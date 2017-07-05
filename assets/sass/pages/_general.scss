@@ -196,21 +196,22 @@ body {
 // ::::::::::::::::::::::::::::::::::::::::
 .page-header {
   width: 100%;
+  box-sizing: border-box;
+  padding: 0 20px;
 
   h1 {
     margin: 20px 0 5px;
     color: white;
-    text-align: center;
+    text-transform: uppercase;
     font-family: $font-bold;
     font-size: 3rem;
     line-height: 1;
   }
 
   p {
-    width: 70%;
-    margin: 0 15% 20px;
+    max-width: 700px;
+    margin: 0 0 20px;
     color: $purple;
-    text-align: center;
     font-family: $font-regular;
   }
 
@@ -232,10 +233,12 @@ body {
 
 .page-footer {
   width: 100%;
+  box-sizing: border-box;
+  padding: 0 20px;
 
   h1 {
+    margin: 20px 0 5px;
     color: white;
-    text-align: center;
     font-family: $font-bold;
     font-size: 3rem;
     line-height: 1;
@@ -243,7 +246,6 @@ body {
 
   p {
     color: $purple;
-    text-align: center;
     font-family: $font-regular;
   }
 
@@ -260,12 +262,12 @@ body {
 body { font-family: $font-regular; font-size: 1em; line-height: 1.5em; }
 
 h1 {
-  width: 100%;
-  margin: 40px 0 30px;
-  padding: 0;
-  color: $white;
+  margin: 40px 0 5px;
+  color: white;
+  text-transform: uppercase;
   font-family: $font-bold;
-  font-size: 3em;
+  font-size: 3rem;
+  line-height: 1;
 }
 
 h2 {
