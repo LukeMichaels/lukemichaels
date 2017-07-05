@@ -11,6 +11,7 @@
   img {
     max-width: 100%;
   }
+
 } // .desktop-header
 
 .module.parallax {
@@ -197,9 +198,8 @@
 .nav li a {
   display: block;
   position: relative;
-  box-sizing: border-box;
-  padding: 5px 0;
   color: $white;
+  text-transform: uppercase;
   font-size: 1rem;
 }
 
@@ -340,4 +340,40 @@ tr {
 
 .service-link {
   text-align: left;
+}
+
+
+// ::::::::::::::::::::::::::::::::::::::::
+// top nav
+// ::::::::::::::::::::::::::::::::::::::::
+#stickyheader {
+  display: none; // hide this until the user scrolls down
+  width: 100%;
+  position: fixed;
+  margin: 0 auto;
+  background-color: $teal;
+  z-index: 10;
+
+  nav {
+    max-width: 1080px;
+    margin: 0 auto;
+  }
+
+  ul {
+    float: right;
+    margin-right: 20px;
+  }
+
+  a {
+    box-sizing: border-box;
+    padding: 15px 10px 10px 10px;
+    color: $white;
+    &:hover {
+      background-color: $pink;
+    }
+  }
+} // #stickyheader
+
+.nav-up {
+  top: -45px;
 }

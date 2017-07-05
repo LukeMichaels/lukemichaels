@@ -156,42 +156,6 @@ body {
 
 
 // ::::::::::::::::::::::::::::::::::::::::
-// top nav
-// ::::::::::::::::::::::::::::::::::::::::
-#stickyheader {
-  display: none; // hide this until the user scrolls down
-  width: 100%;
-  position: fixed;
-  margin: 0 auto;
-  background-color: $teal;
-  z-index: 10;
-
-  nav {
-    max-width: 1080px;
-    margin: 0 auto;
-  }
-
-  ul {
-    float: right;
-    margin-right: 20px;
-  }
-
-  a {
-    box-sizing: border-box;
-    padding: 10px;
-    color: $white;
-    &:hover {
-      color: $pink;
-    }
-  }
-} // #stickyheader
-
-.nav-up {
-  top: -45px;
-}
-
-
-// ::::::::::::::::::::::::::::::::::::::::
 // general page styles
 // ::::::::::::::::::::::::::::::::::::::::
 .page-header {

@@ -207,6 +207,16 @@
 		"oAP": "\/assets\/fonts\/OFL.txt",
 		"oF": 0
 		},
+	"\/assets\/images\/cca\/Get-Involved.jpg": {
+		"ft": 16384,
+		"iS": 853841,
+		"oA": 0,
+		"oAP": "\/assets\/images\/cca\/Get-Involved.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/assets\/images\/cca\/Get-Involved.png": {
 		"ft": 32768,
 		"iS": 7040940,
@@ -216,6 +226,16 @@
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/images\/cca\/Programs-MyMusicRX.jpg": {
+		"ft": 16384,
+		"iS": 609896,
+		"oA": 0,
+		"oAP": "\/assets\/images\/cca\/Programs-MyMusicRX.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"\/assets\/images\/cca\/Programs-MyMusicRX.png": {
@@ -269,6 +289,16 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/assets\/images\/kog\/Contribute-kog.jpg": {
+		"ft": 16384,
+		"iS": 434885,
+		"oA": 0,
+		"oAP": "\/assets\/images\/kog\/Contribute-kog.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/assets\/images\/kog\/Contribute-kog.png": {
 		"ft": 32768,
 		"iS": 3611170,
@@ -278,6 +308,16 @@
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/images\/kog\/Home-kog.jpg": {
+		"ft": 16384,
+		"iS": 588570,
+		"oA": 0,
+		"oAP": "\/assets\/images\/kog\/Home-kog.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"\/assets\/images\/kog\/Home-kog.png": {
@@ -291,6 +331,16 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/assets\/images\/kog\/On-The-Job-kog.jpg": {
+		"ft": 16384,
+		"iS": 693090,
+		"oA": 0,
+		"oAP": "\/assets\/images\/kog\/On-The-Job-kog.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/assets\/images\/kog\/On-The-Job-kog.png": {
 		"ft": 32768,
 		"iS": 4778320,
@@ -300,6 +350,16 @@
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/images\/lamarzocco\/Home.jpg": {
+		"ft": 16384,
+		"iS": 530477,
+		"oA": 0,
+		"oAP": "\/assets\/images\/lamarzocco\/Home.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"\/assets\/images\/lamarzocco\/Home.png": {
@@ -313,6 +373,16 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/assets\/images\/lamarzocco\/Office-Coffee.jpg": {
+		"ft": 16384,
+		"iS": 640898,
+		"oA": 0,
+		"oAP": "\/assets\/images\/lamarzocco\/Office-Coffee.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/assets\/images\/lamarzocco\/Office-Coffee.png": {
 		"ft": 32768,
 		"iS": 6320150,
@@ -324,6 +394,16 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/assets\/images\/progressive\/Doors.jpg": {
+		"ft": 16384,
+		"iS": 229822,
+		"oA": 0,
+		"oAP": "\/assets\/images\/progressive\/Doors.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/assets\/images\/progressive\/Doors.png": {
 		"ft": 32768,
 		"iS": 2059550,
@@ -333,6 +413,16 @@
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/images\/progressive\/Home.jpg": {
+		"ft": 16384,
+		"iS": 227192,
+		"oA": 0,
+		"oAP": "\/assets\/images\/progressive\/Home.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"\/assets\/images\/progressive\/Home.png": {
@@ -859,6 +949,16 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/assets\/images\/supercrown\/Home.jpg": {
+		"ft": 16384,
+		"iS": 265732,
+		"oA": 0,
+		"oAP": "\/assets\/images\/supercrown\/Home.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/assets\/images\/supercrown\/Home.png": {
 		"ft": 32768,
 		"iS": 2057910,
@@ -868,6 +968,16 @@
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/images\/supercrown\/Journal-Coffee-Entry.jpg": {
+		"ft": 16384,
+		"iS": 334493,
+		"oA": 0,
+		"oAP": "\/assets\/images\/supercrown\/Journal-Coffee-Entry.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"\/assets\/images\/supercrown\/Journal-Coffee-Entry.png": {

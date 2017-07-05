@@ -8,7 +8,7 @@
 
     <article class="piece-wrapper" data-aos="fade-up">
       <a id="cca-button">
-        <img src="assets/images/cca/Get-Involved.png" title="CCA JoyRX" alt="CCA JoyRX">
+        <img src="assets/images/cca/Get-Involved.jpg" title="CCA JoyRX" alt="CCA JoyRX">
       </a>
     </article>
 
@@ -49,7 +49,7 @@
 
     <article class="piece-wrapper">
       <a id="progressive-button">
-        <img src="assets/images/progressive/Home.png" title="Progressive" alt="Progressive">
+        <img src="assets/images/progressive/Home.jpg" title="Progressive" alt="Progressive">
       </a>
     </article>
 
@@ -97,13 +97,13 @@
 
     <article class="piece-wrapper">
       <a id="kog-button">            
-        <img src="assets/images/kog/Home-kog.png" title="Keep Oregon Green" alt="Keep Oregon Green">
+        <img src="assets/images/kog/Home-kog.jpg" title="Keep Oregon Green" alt="Keep Oregon Green">
       </a>
     </article>
 
     <article class="piece-wrapper">
       <a id="lamarzocco-button">            
-        <img src="assets/images/lamarzocco/Home.png" title="LaMarzocco" alt="LaMarzocco">
+        <img src="assets/images/lamarzocco/Home.jpg" title="LaMarzocco" alt="LaMarzocco">
       </a>
     </article>
 
@@ -147,7 +147,7 @@
 
     <article class="piece-wrapper">
       <a id="supercrown-button">
-        <img src="assets/images/supercrown/Home.png" title="Supercrown" alt="Supercrown" />
+        <img src="assets/images/supercrown/Home.jpg" title="Supercrown" alt="Supercrown" />
       </a>
      </article>
 
@@ -569,9 +569,9 @@
   </div>
   <div class="row">
     <div class="col span_3_of_5">
-      <img src="assets/images/cca/Get-Involved.png" title="CCA JoyRX" alt="CCA JoyRX">
+      <img src="assets/images/cca/Get-Involved.jpg" title="CCA JoyRX" alt="CCA JoyRX">
       <br><br>
-      <img src="assets/images/cca/Programs-MyMusicRX.png" title="CCA JoyRX" alt="CCA JoyRX">
+      <img src="assets/images/cca/Programs-MyMusicRX.jpg" title="CCA JoyRX" alt="CCA JoyRX">
     </div>
     <div class="col span_2_of_5">
       <h3>Children's Cancer Association - JoyRX</h3>
@@ -592,11 +592,11 @@
   </div>
   <div class="row">
     <div class="col span_3_of_5">
-      <img src="assets/images/kog/Home-kog.png" title="Keep Oregon Green" alt="Keep Oregon Green">
+      <img src="assets/images/kog/Home-kog.jpg" title="Keep Oregon Green" alt="Keep Oregon Green">
       <br><br>
-      <img src="assets/images/kog/Contribute-kog.png" title="Keep Oregon Green" alt="Keep Oregon Green">
+      <img src="assets/images/kog/Contribute-kog.jpg" title="Keep Oregon Green" alt="Keep Oregon Green">
       <br><br>
-      <img src="assets/images/kog/On-The-Job-kog.png" title="Keep Oregon Green" alt="Keep Oregon Green">
+      <img src="assets/images/kog/On-The-Job-kog.jpg" title="Keep Oregon Green" alt="Keep Oregon Green">
     </div>
     <div class="col span_2_of_5">
       <h3>Keep Oregon Green</h3>
@@ -615,9 +615,9 @@
   </div>
   <div class="row">
     <div class="col span_3_of_5">
-      <img src="assets/images/lamarzocco/Home.png" title="LaMarzocco" alt="LaMarzocco">
+      <img src="assets/images/lamarzocco/Home.jpg" title="LaMarzocco" alt="LaMarzocco">
       <br><br>
-      <img src="assets/images/lamarzocco/Office-Coffee.png" title="LaMarzocco" alt="LaMarzocco">
+      <img src="assets/images/lamarzocco/Office-Coffee.jpg" title="LaMarzocco" alt="LaMarzocco">
     </div>
     <div class="col span_2_of_5">
       <h3>LaMarzocco Home Website</h3>
@@ -635,9 +635,9 @@
   </div>
   <div class="row">
     <div class="col span_3_of_5">
-      <img src="assets/images/progressive/Home.png" title="Progressive" alt="Progressive">
+      <img src="assets/images/progressive/Home.jpg" title="Progressive" alt="Progressive">
       <br><br>
-      <img src="assets/images/progressive/Doors.png" title="Progressive" alt="Progressive">
+      <img src="assets/images/progressive/Doors.jpg" title="Progressive" alt="Progressive">
     </div>
     <div class="col span_2_of_5">
       <h3>Progressive Doors & Windows Website</h3>
@@ -655,9 +655,9 @@
   </div>
   <div class="row">
     <div class="col span_3_of_5">
-      <img src="assets/images/supercrown/Home.png" title="Supercrown" alt="Supercrown" />
+      <img src="assets/images/supercrown/Home.jpg" title="Supercrown" alt="Supercrown" />
       <br><br>
-      <img src="assets/images/supercrown/Journal-Coffee-Entry.png" title="Supercrown" alt="Supercrown" />
+      <img src="assets/images/supercrown/Journal-Coffee-Entry.jpg" title="Supercrown" alt="Supercrown" />
     </div>
     <div class="col span_2_of_5">
       <h3>Supercrown Website</h3>
