@@ -7,20 +7,20 @@
     <div class="two-columns-main">
       <h1>Hi, I'm Luke.</h1>  
       <p>
-        I enjoy cycling, tea, post rock, programming and design.
+        I enjoy cycling, tea, post-rock, programming, and design.
       </p>
 
       <p>
         In 2005 I graduated with a computer science degree in<br />
         digital media. Since that time I've picked up a broad range<br />
         of design and development experience in several mediums<br /> 
-        including web, print, video and screen-printing.
+        including web, print, video, and screen-printing.
       </p>
 
       <p>
         Over-all I have 12 years of professional experience and<br /> 
         over 18 years of personal experience in graphic design,<br />
-        web design & development, typesetting, print layout, branding<br />
+        web design & development, typesetting, print layout, branding,<br />
         and everything else that comes along with being a full service<br />
         new media designer.
       </p>

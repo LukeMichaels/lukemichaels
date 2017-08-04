@@ -6,6 +6,86 @@
 
   <div class="col span_1_of_2">
 
+    <article class="piece-wrapper">
+      <a id="kog-button">            
+        <img src="assets/images/kog/Home-kog.jpg" title="Keep Oregon Green" alt="Keep Oregon Green">
+      </a>
+    </article>
+
+    <article class="piece-wrapper">
+      <a id="lamarzocco-button">            
+        <img src="assets/images/lamarzocco/Home.jpg" title="LaMarzocco" alt="LaMarzocco">
+      </a>
+    </article>
+
+    <article class="piece-wrapper">
+      <a id="eits-button">            
+        <img src="assets/images/retina/explosions-in-the-sky.jpg" title="Explosions in the Sky Flier" alt="Explosions in the Sky Flier">
+      </a>
+    </article>
+
+    <article class="piece-wrapper">
+      <a id="fairbanks-mr-history-button">
+        <img src="assets/images/retina/fairbanks-mr-history.jpg" title="Mr History Fairbanks Flier" alt="Mr History Fairbanks Flier">
+      </a>
+    </article>
+
+    <article class="piece-wrapper">
+      <a id="mr-history-cousin-sleep-cousin-death-button">
+        <img src="assets/images/retina/mr-history-cousin-sleep-cousin-death.jpg" title="Mr History Cousin Sleep Cousin Death Album Artwork" alt="Mr History Cousin Sleep Cousin Death Album Artwork" />
+      </a>
+    </article>
+
+    <article class="piece-wrapper">
+      <a id="good-foot-stock-button">
+        <img src="assets/images/retina/good-foot-stock-one.jpg" title="Good Foot Stock Flier" alt="Good Foot Stock Flier">
+        <br /><br />
+        <img src="assets/images/retina/good-foot-stock-two.jpg" title="Good Foot Stock Flier" alt="Good Foot Stock Flier">
+      </a>
+    </article>
+
+    <article class="piece-wrapper">
+      <a id="cobra-skulls-bent-left-button">
+        <img src="assets/images/retina/cobra-skulls-bent-left.jpg" title="Cobra Skulls Flier" alt="Cobra Skulls Flier" />
+      </a>
+     </article>
+
+    <article class="piece-wrapper">
+      <a id="dj-red-beard-button">
+        <img src="assets/images/retina/dj-red-beard.jpg" title="DJ Red Beard Flier" alt="DJ Red Beard Flier" />
+      </a>
+     </article>
+
+    <article class="piece-wrapper">
+      <a id="supercrown-button">
+        <img src="assets/images/supercrown/Home.jpg" title="Supercrown" alt="Supercrown" />
+      </a>
+     </article>
+
+<!--
+    <article class="piece-wrapper">
+      <a id="newgameplus-button">
+        <img src="assets/images/retina/newgameplus.jpg" title="NewGame+" alt="NewGame+">
+      </a>
+    </article>
+-->
+
+    <article class="piece-wrapper">
+      <a id="mr-history-one-button">
+        <img src="assets/images/retina/mr-history-one.jpg" title="Mr History Crosstown Flier" alt="Mr History Crosstown Flier" />
+      </a>
+    </article>
+
+    <article class="piece-wrapper">
+      <a id="mr-history-four-button">
+        <img src="assets/images/retina/mr-history-four-recolor.jpg" title="Mr. History at the Riot Room" alt="Mr. History at the Riot Room" />
+      </a>
+    </article>
+
+  </div><!-- .col span_1_of_2 -->
+
+  <div class="col span_1_of_2">
+
     <article class="piece-wrapper" data-aos="fade-up">
       <a id="cca-button">
         <img src="assets/images/cca/Get-Involved.jpg" title="CCA JoyRX" alt="CCA JoyRX">
@@ -88,86 +168,6 @@
     <article class="piece-wrapper">
       <a id="grains-of-discovery-button">
         <img src="assets/images/retina/grains-of-discovery.jpg" title="Grains of Discovery" alt="Grains of Discovery">
-      </a>
-    </article>
-
-  </div><!-- .col span_1_of_2 -->
-
-  <div class="col span_1_of_2">
-
-    <article class="piece-wrapper">
-      <a id="kog-button">            
-        <img src="assets/images/kog/Home-kog.jpg" title="Keep Oregon Green" alt="Keep Oregon Green">
-      </a>
-    </article>
-
-    <article class="piece-wrapper">
-      <a id="lamarzocco-button">            
-        <img src="assets/images/lamarzocco/Home.jpg" title="LaMarzocco" alt="LaMarzocco">
-      </a>
-    </article>
-
-    <article class="piece-wrapper">
-      <a id="eits-button">            
-        <img src="assets/images/retina/explosions-in-the-sky.jpg" title="Explosions in the Sky Flier" alt="Explosions in the Sky Flier">
-      </a>
-    </article>
-
-    <article class="piece-wrapper">
-      <a id="fairbanks-mr-history-button">
-        <img src="assets/images/retina/fairbanks-mr-history.jpg" title="Mr History Fairbanks Flier" alt="Mr History Fairbanks Flier">
-      </a>
-    </article>
-
-    <article class="piece-wrapper">
-      <a id="mr-history-cousin-sleep-cousin-death-button">
-        <img src="assets/images/retina/mr-history-cousin-sleep-cousin-death.jpg" title="Mr History Cousin Sleep Cousin Death Album Artwork" alt="Mr History Cousin Sleep Cousin Death Album Artwork" />
-      </a>
-    </article>
-
-    <article class="piece-wrapper">
-      <a id="good-foot-stock-button">
-        <img src="assets/images/retina/good-foot-stock-one.jpg" title="Good Foot Stock Flier" alt="Good Foot Stock Flier">
-        <br /><br />
-        <img src="assets/images/retina/good-foot-stock-two.jpg" title="Good Foot Stock Flier" alt="Good Foot Stock Flier">
-      </a>
-    </article>
-
-    <article class="piece-wrapper">
-      <a id="cobra-skulls-bent-left-button">
-        <img src="assets/images/retina/cobra-skulls-bent-left.jpg" title="Cobra Skulls Flier" alt="Cobra Skulls Flier" />
-      </a>
-     </article>
-
-    <article class="piece-wrapper">
-      <a id="dj-red-beard-button">
-        <img src="assets/images/retina/dj-red-beard.jpg" title="DJ Red Beard Flier" alt="DJ Red Beard Flier" />
-      </a>
-     </article>
-
-    <article class="piece-wrapper">
-      <a id="supercrown-button">
-        <img src="assets/images/supercrown/Home.jpg" title="Supercrown" alt="Supercrown" />
-      </a>
-     </article>
-
-<!--
-    <article class="piece-wrapper">
-      <a id="newgameplus-button">
-        <img src="assets/images/retina/newgameplus.jpg" title="NewGame+" alt="NewGame+">
-      </a>
-    </article>
--->
-
-    <article class="piece-wrapper">
-      <a id="mr-history-one-button">
-        <img src="assets/images/retina/mr-history-one.jpg" title="Mr History Crosstown Flier" alt="Mr History Crosstown Flier" />
-      </a>
-    </article>
-
-    <article class="piece-wrapper">
-      <a id="mr-history-four-button">
-        <img src="assets/images/retina/mr-history-four-recolor.jpg" title="Mr. History at the Riot Room" alt="Mr. History at the Riot Room" />
       </a>
     </article>
 
