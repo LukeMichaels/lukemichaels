@@ -13,14 +13,14 @@
     </article>
 
     <article class="piece-wrapper">
-      <a id="ofri-button">
-        <img src="assets/images/ofri/OFRI_Homepage.jpg" title="OFRI" alt="OFRI">
+      <a id="lamarzocco-button">
+        <img src="assets/images/lamarzocco/Home.jpg" title="LaMarzocco" alt="LaMarzocco">
       </a>
     </article>
 
     <article class="piece-wrapper">
-      <a id="lamarzocco-button">
-        <img src="assets/images/lamarzocco/Home.jpg" title="LaMarzocco" alt="LaMarzocco">
+      <a id="ofri-button">
+        <img src="assets/images/ofri/OFRI_Homepage.jpg" title="OFRI" alt="OFRI">
       </a>
     </article>
 
