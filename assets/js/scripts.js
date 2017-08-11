@@ -16,6 +16,12 @@ $(document).ready(function($) {
 
 
   /* :::::::::: Gallery Functionality :::::::::: */
+  $('#ofri-button').on('click', function () {
+    $('#ofri-overlay').fadeIn(500);
+  });
+  $('#ofri-close-button').on('click', function(e) { 
+    $('#ofri-overlay').fadeOut(500); 
+  });
   $('#rogue-button').on('click', function () {
     $('#rogue-overlay').fadeIn(500);
   });
@@ -170,6 +176,7 @@ $(document).ready(function($) {
 
 $(document).on( 'keydown', function (e) {
   if(e.keyCode === 27) { // ESC
+    $('#ofri-overlay').fadeOut(500);
     $('#rogue-overlay').fadeOut(500);
     $('#bobs-blog-overlay').fadeOut(500);
     $('#bobs-overlay').fadeOut(500);

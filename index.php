@@ -7,19 +7,25 @@
   <div class="col span_1_of_2">
 
     <article class="piece-wrapper">
-      <a id="kog-button">            
+      <a id="kog-button">
         <img src="assets/images/kog/Home-kog.jpg" title="Keep Oregon Green" alt="Keep Oregon Green">
       </a>
     </article>
 
     <article class="piece-wrapper">
-      <a id="lamarzocco-button">            
+      <a id="ofri-button">
+        <img src="assets/images/ofri/OFRI_Homepage.jpg" title="OFRI" alt="OFRI">
+      </a>
+    </article>
+
+    <article class="piece-wrapper">
+      <a id="lamarzocco-button">
         <img src="assets/images/lamarzocco/Home.jpg" title="LaMarzocco" alt="LaMarzocco">
       </a>
     </article>
 
     <article class="piece-wrapper">
-      <a id="eits-button">            
+      <a id="eits-button">
         <img src="assets/images/retina/explosions-in-the-sky.jpg" title="Explosions in the Sky Flier" alt="Explosions in the Sky Flier">
       </a>
     </article>
@@ -185,6 +191,30 @@
   </div>
 </section>
 -->
+
+<div class="piece-overlay" id="ofri-overlay">
+  <div class="overlay-header">
+    <div class="row">
+      <span class="escape-message">Press ESC or click</span> <button id="ofri-close-button">X</button>
+    </div>
+  </div>
+  <div class="overlay-body">
+    <div class="row">
+      <div class="col span_3_of_5">
+        <img src="assets/images/ofri/OFRI_Homepage.jpg" title="OFRI Home Page" alt="OFRI Home Page"><br>
+        <img src="assets/images/ofri/Video_Library_Expanded.jpg" title="OFRI Video Page" alt="OFRI Video Page">
+        <img src="assets/images/ofri/TreeGuide.jpg" title="OFRI Tree Guide Page" alt="OFRI Tree Guide Page">
+      </div>
+      <div class="col span_2_of_5">
+        <h3>Oregon Forest Resources Institute</h3>
+        <div class="project-type">website design</div>
+        <p>
+          I contributed front-end development, project management (and a little design work) on a full-scale redesign for oregonforests.org. It was my first experience with Drupal 8 and I learned a lot about Drupal and Twig in the process.
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
 
 <div class="piece-overlay" id="rogue-overlay">
   <div class="overlay-header">
@@ -601,11 +631,13 @@
     <div class="col span_2_of_5">
       <h3>Keep Oregon Green</h3>
       <div class="project-type">Website Development</div>
+      <p>
+        I did all of the development on this website and contributed to the design here-and-there (such as designing the donation page).
+      </p>
       <p>Created in WordPress, HTML, CSS, PHP, JavaScript</p>
     </div>
   </div>
 </div>
-
 
 <div class="piece-overlay" id="lamarzocco-overlay">
   <div class="overlay-header">
