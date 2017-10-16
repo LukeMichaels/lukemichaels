@@ -53,7 +53,7 @@
         Illustrator, Photoshop, InDesign, Sketch, Coda, Grunt, Bower, Yeoman, Kaleidoscope, Dreamweaver,<br /> 
         FontExplorer, Pages, Numbers, Keynote, Excel, Word, PowerPoint, Emma, MailChimp,<br />
         Tower, CodeKit, Terminal, Atom.io, Viseo, MAMP, Dropbox, CodeBox, xScope, OS X, iOS,<br />
-        Flash, Premiere, Linux(Fedora), Windows... I'm a big fan of trying out new software !
+        Flash, Premiere, Linux(Fedora), Windows... I'm a big fan of trying out new software!
       </p><br />
 
       <span class="about-title">Academic Experience</span><br />
