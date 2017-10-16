@@ -10,7 +10,7 @@
   <meta name="keywords" content="web design, web development, print, creative services, illustration, design, art, blogs, flash, layout" />
   <meta name="description" content="Luke Michaels | Web | Graphics | Creative | Portland Oregon" />
   <meta name="MSSmartTagsPreventParsing" content="true" />
-  <meta name="copyright" content="(c) 2014 Luke Michaels" />
+  <meta name="copyright" content="(c) 2017 Luke Michaels" />
   <meta http-equiv="Pragma" content="no-cache" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
