@@ -18,8 +18,8 @@
       </p>
 
       <p>
-        Over-all I have 12 years of professional experience and<br /> 
-        over 18 years of personal experience in graphic design,<br />
+        Over-all I have 13 years of professional experience and<br /> 
+        over 19 years of personal experience in graphic design,<br />
         web design & development, typesetting, print layout, branding,<br />
         and everything else that comes along with being a full service<br />
         new media designer.
