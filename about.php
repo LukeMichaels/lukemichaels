@@ -94,7 +94,7 @@
 
     <!-- :::::::::: Sidebar :::::::::: -->
     <div class="two-columns-left">
-      <img src="assets/images/retina/me-4.png" border="0"/><br />
+      <img src="assets/images/retina/me-7.png" border="0"/><br />
       <div class="about-buttons">
         <a href="/Luke_Michaels_Resume_2017.pdf" alt="download my resume">
           <div class="about-icon">
